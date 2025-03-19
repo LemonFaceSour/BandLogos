@@ -7,3 +7,6 @@ Various Band Logos Collected together against a black background with logos most
 ## Example
 
 ![alt text](https://github.com/LemonFaceSour/BandLogos/blob/main/screenshot.jpg)
+
+![alt text](https://github.com/LemonFaceSour/BandLogos/blob/main/screenshot-2.png)
+
