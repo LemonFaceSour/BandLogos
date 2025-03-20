@@ -1,0 +1,1 @@
+![The Dickies(artist.jpeg)]

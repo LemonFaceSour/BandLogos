@@ -1,0 +1,1 @@
+![Dark New Day(artist.jpeg)]

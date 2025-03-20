@@ -1,0 +1,1 @@
+![Lacuna Coil(artist.jpeg)]

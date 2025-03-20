@@ -1,0 +1,1 @@
+![Dry Kill Logic(artist.jpeg)]

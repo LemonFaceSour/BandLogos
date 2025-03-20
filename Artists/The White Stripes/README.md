@@ -1,0 +1,1 @@
+![The White Stripes(artist.jpeg)]

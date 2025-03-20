@@ -1,0 +1,1 @@
+![Simple Minds(artist.jpeg)]

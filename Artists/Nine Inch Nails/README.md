@@ -1,0 +1,1 @@
+![Nine Inch Nails(artist.jpeg)]

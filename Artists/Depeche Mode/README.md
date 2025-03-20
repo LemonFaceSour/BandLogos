@@ -1,0 +1,1 @@
+![Depeche Mode(artist.jpeg)]

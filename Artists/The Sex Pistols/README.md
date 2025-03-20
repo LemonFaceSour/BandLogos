@@ -1,0 +1,1 @@
+![The Sex Pistols(artist.jpeg)]

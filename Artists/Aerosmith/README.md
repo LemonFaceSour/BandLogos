@@ -1,0 +1,1 @@
+![Aerosmith(artist.jpeg)]

@@ -1,0 +1,1 @@
+![Manowar(artist.jpeg)]

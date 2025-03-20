@@ -1,0 +1,1 @@
+![The Red Hot Chili Peppers(artist.jpeg)]

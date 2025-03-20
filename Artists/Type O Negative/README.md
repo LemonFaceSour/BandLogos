@@ -1,0 +1,1 @@
+![Type O Negative(artist.jpeg)]

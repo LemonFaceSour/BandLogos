@@ -1,0 +1,1 @@
+![Fear Factory(artist.jpeg)]

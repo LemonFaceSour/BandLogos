@@ -1,0 +1,1 @@
+![Avenged Sevenfold(artist.jpeg)]

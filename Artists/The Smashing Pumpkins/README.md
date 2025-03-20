@@ -1,0 +1,1 @@
+![The Smashing Pumpkins(artist.jpeg)]

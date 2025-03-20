@@ -1,0 +1,1 @@
+![Skid Row(artist.jpeg)]

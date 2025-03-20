@@ -1,0 +1,1 @@
+![Quiet Riot(artist.jpeg)]

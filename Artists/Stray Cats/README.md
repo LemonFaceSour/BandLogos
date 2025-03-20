@@ -1,0 +1,1 @@
+![Stray Cats(artist.jpeg)]

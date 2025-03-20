@@ -1,0 +1,1 @@
+![Mindless Self Indulgence(artist.jpeg)]

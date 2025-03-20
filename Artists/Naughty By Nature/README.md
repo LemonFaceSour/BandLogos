@@ -1,0 +1,1 @@
+![Naughty By Nature(artist.jpeg)]

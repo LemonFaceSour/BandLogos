@@ -1,0 +1,1 @@
+![Rick Springfield(artist.jpeg)]

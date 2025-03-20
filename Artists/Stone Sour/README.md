@@ -1,0 +1,1 @@
+![Stone Sour(artist.jpeg)]

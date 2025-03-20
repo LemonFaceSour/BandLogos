@@ -1,0 +1,1 @@
+![Stroke 9(artist.jpeg)]

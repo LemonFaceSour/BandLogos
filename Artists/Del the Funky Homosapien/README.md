@@ -1,0 +1,1 @@
+![Del the Funky Homosapien(artist.jpeg)]

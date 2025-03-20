@@ -1,0 +1,1 @@
+![Sting(artist.jpeg)]

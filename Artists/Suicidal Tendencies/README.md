@@ -1,0 +1,1 @@
+![Suicidal Tendencies(artist.jpeg)]

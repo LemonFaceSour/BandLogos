@@ -1,0 +1,1 @@
+![Weezer(artist.jpeg)]

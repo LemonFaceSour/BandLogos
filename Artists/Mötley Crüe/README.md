@@ -1,0 +1,1 @@
+![Mötley Crüe(artist.jpeg)]

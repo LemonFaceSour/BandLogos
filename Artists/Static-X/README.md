@@ -1,0 +1,1 @@
+![Static-X(artist.jpeg)]

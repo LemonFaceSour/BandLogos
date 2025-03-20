@@ -1,0 +1,1 @@
+![GOB(artist.jpeg)]

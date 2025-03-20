@@ -1,0 +1,1 @@
+![CKY(artist.jpeg)]

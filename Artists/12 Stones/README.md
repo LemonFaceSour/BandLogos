@@ -1,0 +1,1 @@
+![12 Stones(artist.jpeg)]

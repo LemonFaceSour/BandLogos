@@ -1,0 +1,1 @@
+![Duran Duran(artist.jpeg)]

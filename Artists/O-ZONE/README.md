@@ -1,0 +1,1 @@
+![O-ZONE(artist.jpeg)]

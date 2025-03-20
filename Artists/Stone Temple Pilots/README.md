@@ -1,0 +1,1 @@
+![Stone Temple Pilots(artist.jpeg)]

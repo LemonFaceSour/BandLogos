@@ -1,0 +1,1 @@
+![The Temptations(artist.jpeg)]

@@ -1,0 +1,1 @@
+![George Strait(artist.jpeg)]

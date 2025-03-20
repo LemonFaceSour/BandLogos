@@ -1,0 +1,1 @@
+![Marilyn Manson(artist.jpeg)]

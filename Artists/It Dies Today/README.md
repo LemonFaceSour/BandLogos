@@ -1,0 +1,1 @@
+![It Dies Today(artist.jpeg)]

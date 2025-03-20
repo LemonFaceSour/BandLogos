@@ -1,0 +1,1 @@
+![Christina Aguilera(artist.jpeg)]
