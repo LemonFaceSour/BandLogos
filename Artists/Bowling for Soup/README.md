@@ -1,1 +1,1 @@
-![Bowling for Soup(artist.jpeg)]
+![Bowling for Soup](artist.jpeg)

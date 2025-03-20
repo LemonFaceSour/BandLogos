@@ -1,1 +1,1 @@
-![Angels and Airwaves(artist.jpeg)]
+![Angels and Airwaves](artist.jpeg)

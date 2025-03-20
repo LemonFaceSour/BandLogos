@@ -1,1 +1,1 @@
-![Semisonic(artist.jpeg)]
+![Semisonic](artist.jpeg)

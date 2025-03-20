@@ -1,1 +1,1 @@
-![Deadsy(artist.jpeg)]
+![Deadsy](artist.jpeg)

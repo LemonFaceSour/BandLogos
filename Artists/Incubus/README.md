@@ -1,1 +1,1 @@
-![Incubus(artist.jpeg)]
+![Incubus](artist.jpeg)

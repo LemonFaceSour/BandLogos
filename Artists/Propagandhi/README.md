@@ -1,1 +1,1 @@
-![Propagandhi(artist.jpeg)]
+![Propagandhi](artist.jpeg)

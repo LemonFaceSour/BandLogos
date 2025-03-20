@@ -1,1 +1,1 @@
-![Mastodon(artist.jpeg)]
+![Mastodon](artist.jpeg)

@@ -1,1 +1,1 @@
-![Velvet Revolver(artist.jpeg)]
+![Velvet Revolver](artist.jpeg)

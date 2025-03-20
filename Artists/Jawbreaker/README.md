@@ -1,1 +1,1 @@
-![Jawbreaker(artist.jpeg)]
+![Jawbreaker](artist.jpeg)

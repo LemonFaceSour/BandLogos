@@ -1,1 +1,1 @@
-![Operation Ivy(artist.jpeg)]
+![Operation Ivy](artist.jpeg)

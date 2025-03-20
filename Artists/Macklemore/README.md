@@ -1,1 +1,1 @@
-![Macklemore(artist.jpeg)]
+![Macklemore](artist.jpeg)

@@ -1,1 +1,1 @@
-![Jimi Hendrix Experience(artist.jpeg)]
+![Jimi Hendrix Experience](artist.jpeg)

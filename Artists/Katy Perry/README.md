@@ -1,1 +1,1 @@
-![Katy Perry(artist.jpeg)]
+![Katy Perry](artist.jpeg)

@@ -1,1 +1,1 @@
-![Fiona Apple(artist.jpeg)]
+![Fiona Apple](artist.jpeg)

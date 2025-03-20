@@ -1,1 +1,1 @@
-![Culture Club(artist.jpeg)]
+![Culture Club](artist.jpeg)

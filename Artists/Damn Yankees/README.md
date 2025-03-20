@@ -1,1 +1,1 @@
-![Damn Yankees(artist.jpeg)]
+![Damn Yankees](artist.jpeg)

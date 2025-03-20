@@ -1,1 +1,1 @@
-![Glassjaw(artist.jpeg)]
+![Glassjaw](artist.jpeg)

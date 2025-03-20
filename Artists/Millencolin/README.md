@@ -1,1 +1,1 @@
-![Millencolin(artist.jpeg)]
+![Millencolin](artist.jpeg)

@@ -1,1 +1,1 @@
-![Julien-K(artist.jpeg)]
+![Julien-K](artist.jpeg)

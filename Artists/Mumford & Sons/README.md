@@ -1,1 +1,1 @@
-![Mumford & Sons(artist.jpeg)]
+![Mumford & Sons](artist.jpeg)

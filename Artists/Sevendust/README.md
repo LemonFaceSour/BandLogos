@@ -1,1 +1,1 @@
-![Sevendust(artist.jpeg)]
+![Sevendust](artist.jpeg)

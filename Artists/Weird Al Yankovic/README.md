@@ -1,1 +1,1 @@
-![Weird Al Yankovic(artist.jpeg)]
+![Weird Al Yankovic](artist.jpeg)

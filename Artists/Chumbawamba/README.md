@@ -1,1 +1,1 @@
-![Chumbawamba(artist.jpeg)]
+![Chumbawamba](artist.jpeg)

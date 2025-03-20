@@ -1,1 +1,1 @@
-![Tina Turner(artist.jpeg)]
+![Tina Turner](artist.jpeg)

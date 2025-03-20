@@ -1,1 +1,1 @@
-![Cyndi Lauper(artist.jpeg)]
+![Cyndi Lauper](artist.jpeg)

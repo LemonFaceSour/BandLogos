@@ -1,1 +1,1 @@
-![Anthrax(artist.jpeg)]
+![Anthrax](artist.jpeg)

@@ -1,1 +1,1 @@
-![Morbid Angel(artist.jpeg)]
+![Morbid Angel](artist.jpeg)

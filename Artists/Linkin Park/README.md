@@ -1,1 +1,1 @@
-![Linkin Park(artist.jpeg)]
+![Linkin Park](artist.jpeg)

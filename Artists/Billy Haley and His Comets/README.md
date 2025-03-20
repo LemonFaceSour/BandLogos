@@ -1,1 +1,1 @@
-![Billy Haley and His Comets(artist.jpeg)]
+![Billy Haley and His Comets](artist.jpeg)

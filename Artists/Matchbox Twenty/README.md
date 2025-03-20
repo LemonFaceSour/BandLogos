@@ -1,1 +1,1 @@
-![Matchbox Twenty(artist.jpeg)]
+![Matchbox Twenty](artist.jpeg)

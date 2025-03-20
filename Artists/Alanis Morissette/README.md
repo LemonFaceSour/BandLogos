@@ -1,1 +1,1 @@
-![Alanis Morissette(artist.jpeg)]
+![Alanis Morissette](artist.jpeg)

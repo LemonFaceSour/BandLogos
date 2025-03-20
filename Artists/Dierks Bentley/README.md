@@ -1,1 +1,1 @@
-![Dierks Bentley(artist.jpeg)]
+![Dierks Bentley](artist.jpeg)

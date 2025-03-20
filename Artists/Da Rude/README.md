@@ -1,1 +1,1 @@
-![Da Rude(artist.jpeg)]
+![Da Rude](artist.jpeg)

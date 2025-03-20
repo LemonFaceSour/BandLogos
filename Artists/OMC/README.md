@@ -1,1 +1,1 @@
-![OMC(artist.jpeg)]
+![OMC](artist.jpeg)

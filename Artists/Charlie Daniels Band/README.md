@@ -1,1 +1,1 @@
-![Charlie Daniels Band(artist.jpeg)]
+![Charlie Daniels Band](artist.jpeg)

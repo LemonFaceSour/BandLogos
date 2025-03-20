@@ -1,1 +1,1 @@
-![Nelly(artist.jpeg)]
+![Nelly](artist.jpeg)

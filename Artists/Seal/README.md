@@ -1,1 +1,1 @@
-![Seal(artist.jpeg)]
+![Seal](artist.jpeg)

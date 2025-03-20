@@ -1,1 +1,1 @@
-![Tim McGraw(artist.jpeg)]
+![Tim McGraw](artist.jpeg)

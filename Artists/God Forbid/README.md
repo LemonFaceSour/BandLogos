@@ -1,1 +1,1 @@
-![God Forbid(artist.jpeg)]
+![God Forbid](artist.jpeg)

@@ -1,1 +1,1 @@
-![All‐4‐One(artist.jpeg)]
+![All‐4‐One](artist.jpeg)

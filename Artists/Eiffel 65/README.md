@@ -1,1 +1,1 @@
-![Eiffel 65(artist.jpeg)]
+![Eiffel 65](artist.jpeg)

@@ -1,1 +1,1 @@
-![Neck Deep(artist.jpeg)]
+![Neck Deep](artist.jpeg)

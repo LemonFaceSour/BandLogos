@@ -1,1 +1,1 @@
-![Silent Civilian(artist.jpeg)]
+![Silent Civilian](artist.jpeg)

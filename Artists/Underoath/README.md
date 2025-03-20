@@ -1,1 +1,1 @@
-![Underoath(artist.jpeg)]
+![Underoath](artist.jpeg)

@@ -1,1 +1,1 @@
-![Kevin Rudolf(artist.jpeg)]
+![Kevin Rudolf](artist.jpeg)

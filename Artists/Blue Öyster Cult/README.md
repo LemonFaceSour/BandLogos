@@ -1,1 +1,1 @@
-![Blue Öyster Cult(artist.jpeg)]
+![Blue Öyster Cult](artist.jpeg)

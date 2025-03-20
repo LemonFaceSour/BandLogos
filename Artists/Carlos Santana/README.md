@@ -1,1 +1,1 @@
-![Carlos Santana(artist.jpeg)]
+![Carlos Santana](artist.jpeg)

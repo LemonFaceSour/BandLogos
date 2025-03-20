@@ -1,1 +1,1 @@
-![Phil Collins(artist.jpeg)]
+![Phil Collins](artist.jpeg)

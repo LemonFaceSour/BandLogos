@@ -1,1 +1,1 @@
-![Civet(artist.jpeg)]
+![Civet](artist.jpeg)

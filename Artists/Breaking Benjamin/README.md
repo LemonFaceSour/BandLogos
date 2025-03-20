@@ -1,1 +1,1 @@
-![Breaking Benjamin(artist.jpeg)]
+![Breaking Benjamin](artist.jpeg)

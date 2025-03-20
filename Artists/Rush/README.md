@@ -1,1 +1,1 @@
-![Rush(artist.jpeg)]
+![Rush](artist.jpeg)

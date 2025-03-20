@@ -1,1 +1,1 @@
-![Kill Lincoln(artist.jpeg)]
+![Kill Lincoln](artist.jpeg)

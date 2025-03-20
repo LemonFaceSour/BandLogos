@@ -1,1 +1,1 @@
-![Flo Rida(artist.jpeg)]
+![Flo Rida](artist.jpeg)

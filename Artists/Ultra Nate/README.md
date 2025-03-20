@@ -1,1 +1,1 @@
-![Ultra Nate(artist.jpeg)]
+![Ultra Nate](artist.jpeg)

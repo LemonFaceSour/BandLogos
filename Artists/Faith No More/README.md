@@ -1,1 +1,1 @@
-![Faith No More(artist.jpeg)]
+![Faith No More](artist.jpeg)

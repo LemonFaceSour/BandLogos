@@ -1,1 +1,1 @@
-![Bad Religion(artist.jpeg)]
+![Bad Religion](artist.jpeg)

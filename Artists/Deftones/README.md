@@ -1,1 +1,1 @@
-![Deftones(artist.jpeg)]
+![Deftones](artist.jpeg)

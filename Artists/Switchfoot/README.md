@@ -1,1 +1,1 @@
-![Switchfoot(artist.jpeg)]
+![Switchfoot](artist.jpeg)

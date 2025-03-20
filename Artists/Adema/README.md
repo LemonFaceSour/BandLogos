@@ -1,1 +1,1 @@
-![Adema(artist.jpeg)]
+![Adema](artist.jpeg)

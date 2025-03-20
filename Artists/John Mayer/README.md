@@ -1,1 +1,1 @@
-![John Mayer(artist.jpeg)]
+![John Mayer](artist.jpeg)

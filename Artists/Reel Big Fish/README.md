@@ -1,1 +1,1 @@
-![Reel Big Fish(artist.jpeg)]
+![Reel Big Fish](artist.jpeg)

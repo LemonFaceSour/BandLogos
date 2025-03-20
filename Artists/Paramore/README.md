@@ -1,1 +1,1 @@
-![Paramore(artist.jpeg)]
+![Paramore](artist.jpeg)

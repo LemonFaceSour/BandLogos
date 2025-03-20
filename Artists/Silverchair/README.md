@@ -1,1 +1,1 @@
-![Silverchair(artist.jpeg)]
+![Silverchair](artist.jpeg)

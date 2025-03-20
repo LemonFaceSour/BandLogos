@@ -1,1 +1,1 @@
-![Stone Temple Pilots(artist.jpeg)]
+![Stone Temple Pilots](artist.jpeg)

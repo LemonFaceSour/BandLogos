@@ -1,1 +1,1 @@
-![Fireflight(artist.jpeg)]
+![Fireflight](artist.jpeg)

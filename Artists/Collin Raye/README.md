@@ -1,1 +1,1 @@
-![Collin Raye(artist.jpeg)]
+![Collin Raye](artist.jpeg)

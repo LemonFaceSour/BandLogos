@@ -1,1 +1,1 @@
-![KMFDM(artist.jpeg)]
+![KMFDM](artist.jpeg)

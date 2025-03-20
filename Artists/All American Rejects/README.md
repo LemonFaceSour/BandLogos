@@ -1,1 +1,1 @@
-![All American Rejects(artist.jpeg)]
+![All American Rejects](artist.jpeg)

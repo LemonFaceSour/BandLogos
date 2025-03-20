@@ -1,1 +1,1 @@
-![Bad Cop_Bad Cop(artist.jpeg)]
+![Bad Cop_Bad Cop](artist.jpeg)

@@ -1,1 +1,1 @@
-![Cinderella(artist.jpeg)]
+![Cinderella](artist.jpeg)

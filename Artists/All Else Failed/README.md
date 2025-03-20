@@ -1,1 +1,1 @@
-![All Else Failed(artist.jpeg)]
+![All Else Failed](artist.jpeg)

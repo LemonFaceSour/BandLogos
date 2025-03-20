@@ -1,1 +1,1 @@
-![Lamb of God(artist.jpeg)]
+![Lamb of God](artist.jpeg)

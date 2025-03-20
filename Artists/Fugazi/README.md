@@ -1,1 +1,1 @@
-![Fugazi(artist.jpeg)]
+![Fugazi](artist.jpeg)

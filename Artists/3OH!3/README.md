@@ -1,1 +1,1 @@
-![3OH!3(artist.jpeg)]
+![3OH!3](artist.jpeg)

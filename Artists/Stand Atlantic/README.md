@@ -1,1 +1,1 @@
-![Stand Atlantic(artist.jpeg)]
+![Stand Atlantic](artist.jpeg)

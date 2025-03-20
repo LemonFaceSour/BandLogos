@@ -1,1 +1,1 @@
-![Hollywood Undead(artist.jpeg)]
+![Hollywood Undead](artist.jpeg)

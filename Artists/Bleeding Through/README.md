@@ -1,1 +1,1 @@
-![Bleeding Through(artist.jpeg)]
+![Bleeding Through](artist.jpeg)

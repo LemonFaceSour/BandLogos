@@ -1,1 +1,1 @@
-![Megadeth(artist.jpeg)]
+![Megadeth](artist.jpeg)

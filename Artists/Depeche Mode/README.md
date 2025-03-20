@@ -1,1 +1,1 @@
-![Depeche Mode(artist.jpeg)]
+![Depeche Mode](artist.jpeg)

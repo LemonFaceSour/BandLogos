@@ -1,1 +1,1 @@
-![They Might Be Giants(artist.jpeg)]
+![They Might Be Giants](artist.jpeg)

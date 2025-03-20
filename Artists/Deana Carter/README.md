@@ -1,1 +1,1 @@
-![Deana Carter(artist.jpeg)]
+![Deana Carter](artist.jpeg)

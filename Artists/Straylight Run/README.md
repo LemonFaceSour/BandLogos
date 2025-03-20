@@ -1,1 +1,1 @@
-![Straylight Run(artist.jpeg)]
+![Straylight Run](artist.jpeg)

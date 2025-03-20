@@ -1,1 +1,1 @@
-![Tatu(artist.jpeg)]
+![Tatu](artist.jpeg)

@@ -1,1 +1,1 @@
-![Apocalyptica(artist.jpeg)]
+![Apocalyptica](artist.jpeg)

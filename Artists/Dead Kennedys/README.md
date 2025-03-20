@@ -1,1 +1,1 @@
-![Dead Kennedys(artist.jpeg)]
+![Dead Kennedys](artist.jpeg)

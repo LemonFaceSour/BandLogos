@@ -1,1 +1,1 @@
-![The Cranberries(artist.jpeg)]
+![The Cranberries](artist.jpeg)

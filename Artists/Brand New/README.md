@@ -1,1 +1,1 @@
-![Brand New(artist.jpeg)]
+![Brand New](artist.jpeg)

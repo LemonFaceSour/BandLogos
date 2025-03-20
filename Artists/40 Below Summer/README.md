@@ -1,1 +1,1 @@
-![40 Below Summer(artist.jpeg)]
+![40 Below Summer](artist.jpeg)

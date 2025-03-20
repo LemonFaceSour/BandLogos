@@ -1,1 +1,1 @@
-![Fozzy(artist.jpeg)]
+![Fozzy](artist.jpeg)

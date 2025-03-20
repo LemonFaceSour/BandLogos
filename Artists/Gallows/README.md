@@ -1,1 +1,1 @@
-![Gallows(artist.jpeg)]
+![Gallows](artist.jpeg)

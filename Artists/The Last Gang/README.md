@@ -1,1 +1,1 @@
-![The Last Gang(artist.jpeg)]
+![The Last Gang](artist.jpeg)

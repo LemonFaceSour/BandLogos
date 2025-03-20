@@ -1,1 +1,1 @@
-![Better Than Ezra(artist.jpeg)]
+![Better Than Ezra](artist.jpeg)

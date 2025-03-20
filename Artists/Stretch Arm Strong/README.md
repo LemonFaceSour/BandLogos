@@ -1,1 +1,1 @@
-![Stretch Arm Strong(artist.jpeg)]
+![Stretch Arm Strong](artist.jpeg)

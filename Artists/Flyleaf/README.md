@@ -1,1 +1,1 @@
-![Flyleaf(artist.jpeg)]
+![Flyleaf](artist.jpeg)

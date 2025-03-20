@@ -1,1 +1,1 @@
-![Groovie Ghoulies(artist.jpeg)]
+![Groovie Ghoulies](artist.jpeg)

@@ -1,1 +1,1 @@
-![Bryan Adams(artist.jpeg)]
+![Bryan Adams](artist.jpeg)

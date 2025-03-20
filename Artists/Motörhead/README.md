@@ -1,1 +1,1 @@
-![Motörhead(artist.jpeg)]
+![Motörhead](artist.jpeg)

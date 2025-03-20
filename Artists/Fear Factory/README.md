@@ -1,1 +1,1 @@
-![Fear Factory(artist.jpeg)]
+![Fear Factory](artist.jpeg)

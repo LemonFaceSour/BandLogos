@@ -1,1 +1,1 @@
-![Trapt(artist.jpeg)]
+![Trapt](artist.jpeg)

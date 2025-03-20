@@ -1,1 +1,1 @@
-![Simple Minds(artist.jpeg)]
+![Simple Minds](artist.jpeg)

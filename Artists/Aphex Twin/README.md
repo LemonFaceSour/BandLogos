@@ -1,1 +1,1 @@
-![Aphex Twin(artist.jpeg)]
+![Aphex Twin](artist.jpeg)

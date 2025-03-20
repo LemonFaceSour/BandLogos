@@ -1,1 +1,1 @@
-![New Found Glory(artist.jpeg)]
+![New Found Glory](artist.jpeg)

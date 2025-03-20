@@ -1,1 +1,1 @@
-![Coq Roq(artist.jpeg)]
+![Coq Roq](artist.jpeg)

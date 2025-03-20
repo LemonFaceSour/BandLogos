@@ -1,1 +1,1 @@
-![Minor Threat(artist.jpeg)]
+![Minor Threat](artist.jpeg)

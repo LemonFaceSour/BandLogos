@@ -1,1 +1,1 @@
-![Shania Twain(artist.jpeg)]
+![Shania Twain](artist.jpeg)

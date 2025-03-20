@@ -1,1 +1,1 @@
-![Foo Fighters(artist.jpeg)]
+![Foo Fighters](artist.jpeg)

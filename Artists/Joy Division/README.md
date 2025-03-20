@@ -1,1 +1,1 @@
-![Joy Division(artist.jpeg)]
+![Joy Division](artist.jpeg)

@@ -1,1 +1,1 @@
-![The Used(artist.jpeg)]
+![The Used](artist.jpeg)

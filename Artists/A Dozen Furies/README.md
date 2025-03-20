@@ -1,1 +1,1 @@
-![A Dozen Furies(artist.jpeg)]
+![A Dozen Furies](artist.jpeg)

@@ -1,1 +1,1 @@
-![Corprate Avenger(artist.jpeg)]
+![Corprate Avenger](artist.jpeg)

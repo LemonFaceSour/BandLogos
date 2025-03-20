@@ -1,1 +1,1 @@
-![The Velvet Underground(artist.jpeg)]
+![The Velvet Underground](artist.jpeg)

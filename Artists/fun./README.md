@@ -1,1 +1,1 @@
-![fun.(artist.jpeg)]
+![fun.](artist.jpeg)

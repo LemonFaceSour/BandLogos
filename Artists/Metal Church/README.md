@@ -1,1 +1,1 @@
-![Metal Church(artist.jpeg)]
+![Metal Church](artist.jpeg)

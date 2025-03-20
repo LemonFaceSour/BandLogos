@@ -1,1 +1,1 @@
-![Touche Amore(artist.jpeg)]
+![Touche Amore](artist.jpeg)

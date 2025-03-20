@@ -1,1 +1,1 @@
-![Celine Dion(artist.jpeg)]
+![Celine Dion](artist.jpeg)

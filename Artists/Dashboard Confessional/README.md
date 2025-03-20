@@ -1,1 +1,1 @@
-![Dashboard Confessional(artist.jpeg)]
+![Dashboard Confessional](artist.jpeg)

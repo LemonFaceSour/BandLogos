@@ -1,1 +1,1 @@
-![Wheatus(artist.jpeg)]
+![Wheatus](artist.jpeg)

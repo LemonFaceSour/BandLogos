@@ -1,1 +1,1 @@
-![Black Sabbath(artist.jpeg)]
+![Black Sabbath](artist.jpeg)

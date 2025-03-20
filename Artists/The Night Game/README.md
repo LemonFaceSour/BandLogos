@@ -1,1 +1,1 @@
-![The Night Game(artist.jpeg)]
+![The Night Game](artist.jpeg)

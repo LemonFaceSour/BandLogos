@@ -1,1 +1,1 @@
-![Joe Cocker(artist.jpeg)]
+![Joe Cocker](artist.jpeg)

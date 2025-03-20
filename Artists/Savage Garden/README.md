@@ -1,1 +1,1 @@
-![Savage Garden(artist.jpeg)]
+![Savage Garden](artist.jpeg)

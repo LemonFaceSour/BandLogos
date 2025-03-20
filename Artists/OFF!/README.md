@@ -1,1 +1,1 @@
-![OFF!(artist.jpeg)]
+![OFF!](artist.jpeg)

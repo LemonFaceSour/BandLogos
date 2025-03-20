@@ -1,1 +1,1 @@
-![Box Car Racers(artist.jpeg)]
+![Box Car Racers](artist.jpeg)

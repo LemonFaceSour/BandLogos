@@ -1,1 +1,1 @@
-![Fall Out Boy(artist.jpeg)]
+![Fall Out Boy](artist.jpeg)

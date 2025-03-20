@@ -1,1 +1,1 @@
-![Fu Manchu(artist.jpeg)]
+![Fu Manchu](artist.jpeg)

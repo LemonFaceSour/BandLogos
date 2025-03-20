@@ -1,1 +1,1 @@
-![Creed(artist.jpeg)]
+![Creed](artist.jpeg)

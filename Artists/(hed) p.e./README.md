@@ -1,1 +1,1 @@
-![(hed) p.e.(artist.jpeg)]
+![(hed) p.e.](artist.jpeg)

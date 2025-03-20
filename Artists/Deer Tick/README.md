@@ -1,1 +1,1 @@
-![Deer Tick(artist.jpeg)]
+![Deer Tick](artist.jpeg)

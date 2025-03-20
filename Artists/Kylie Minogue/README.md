@@ -1,1 +1,1 @@
-![Kylie Minogue(artist.jpeg)]
+![Kylie Minogue](artist.jpeg)

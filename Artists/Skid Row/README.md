@@ -1,1 +1,1 @@
-![Skid Row(artist.jpeg)]
+![Skid Row](artist.jpeg)

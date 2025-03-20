@@ -1,1 +1,1 @@
-![Tracy Byrd(artist.jpeg)]
+![Tracy Byrd](artist.jpeg)

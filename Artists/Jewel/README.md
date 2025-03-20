@@ -1,1 +1,1 @@
-![Jewel(artist.jpeg)]
+![Jewel](artist.jpeg)

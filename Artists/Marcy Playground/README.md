@@ -1,1 +1,1 @@
-![Marcy Playground(artist.jpeg)]
+![Marcy Playground](artist.jpeg)

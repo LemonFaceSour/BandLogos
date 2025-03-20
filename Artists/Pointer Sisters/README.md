@@ -1,1 +1,1 @@
-![Pointer Sisters(artist.jpeg)]
+![Pointer Sisters](artist.jpeg)

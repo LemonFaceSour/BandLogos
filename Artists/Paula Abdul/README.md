@@ -1,1 +1,1 @@
-![Paula Abdul(artist.jpeg)]
+![Paula Abdul](artist.jpeg)

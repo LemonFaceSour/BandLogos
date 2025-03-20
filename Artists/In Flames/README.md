@@ -1,1 +1,1 @@
-![In Flames(artist.jpeg)]
+![In Flames](artist.jpeg)

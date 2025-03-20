@@ -1,1 +1,1 @@
-![The Police(artist.jpeg)]
+![The Police](artist.jpeg)

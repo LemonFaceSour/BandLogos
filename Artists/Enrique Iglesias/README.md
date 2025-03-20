@@ -1,1 +1,1 @@
-![Enrique Iglesias(artist.jpeg)]
+![Enrique Iglesias](artist.jpeg)

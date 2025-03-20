@@ -1,1 +1,1 @@
-![Drowning Pool(artist.jpeg)]
+![Drowning Pool](artist.jpeg)

@@ -1,1 +1,1 @@
-![Billy Talent(artist.jpeg)]
+![Billy Talent](artist.jpeg)

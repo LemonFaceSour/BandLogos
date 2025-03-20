@@ -1,1 +1,1 @@
-![Garbage(artist.jpeg)]
+![Garbage](artist.jpeg)

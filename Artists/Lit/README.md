@@ -1,1 +1,1 @@
-![Lit(artist.jpeg)]
+![Lit](artist.jpeg)

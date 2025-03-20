@@ -1,1 +1,1 @@
-![Cheap Trick(artist.jpeg)]
+![Cheap Trick](artist.jpeg)

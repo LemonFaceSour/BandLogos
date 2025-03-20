@@ -1,1 +1,1 @@
-![Mannequin Pussy(artist.jpeg)]
+![Mannequin Pussy](artist.jpeg)

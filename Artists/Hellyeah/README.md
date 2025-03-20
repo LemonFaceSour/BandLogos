@@ -1,1 +1,1 @@
-![Hellyeah(artist.jpeg)]
+![Hellyeah](artist.jpeg)

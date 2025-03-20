@@ -1,1 +1,1 @@
-![Senses Fail(artist.jpeg)]
+![Senses Fail](artist.jpeg)

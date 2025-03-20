@@ -1,1 +1,1 @@
-![zeromancer(artist.jpeg)]
+![zeromancer](artist.jpeg)

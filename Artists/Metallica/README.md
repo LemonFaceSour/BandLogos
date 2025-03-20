@@ -1,1 +1,1 @@
-![Metallica(artist.jpeg)]
+![Metallica](artist.jpeg)

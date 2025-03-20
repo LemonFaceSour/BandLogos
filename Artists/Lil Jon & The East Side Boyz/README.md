@@ -1,1 +1,1 @@
-![Lil Jon & The East Side Boyz(artist.jpeg)]
+![Lil Jon & The East Side Boyz](artist.jpeg)

@@ -1,1 +1,1 @@
-![The Crystal Method(artist.jpeg)]
+![The Crystal Method](artist.jpeg)

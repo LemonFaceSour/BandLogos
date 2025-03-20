@@ -1,1 +1,1 @@
-![KC and the Sunshine Band(artist.jpeg)]
+![KC and the Sunshine Band](artist.jpeg)

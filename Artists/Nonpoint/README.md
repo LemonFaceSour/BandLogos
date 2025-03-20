@@ -1,1 +1,1 @@
-![Nonpoint(artist.jpeg)]
+![Nonpoint](artist.jpeg)

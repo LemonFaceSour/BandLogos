@@ -1,1 +1,1 @@
-![System of a Down(artist.jpeg)]
+![System of a Down](artist.jpeg)

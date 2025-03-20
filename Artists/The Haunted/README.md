@@ -1,1 +1,1 @@
-![The Haunted(artist.jpeg)]
+![The Haunted](artist.jpeg)

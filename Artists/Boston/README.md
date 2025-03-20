@@ -1,1 +1,1 @@
-![Boston(artist.jpeg)]
+![Boston](artist.jpeg)

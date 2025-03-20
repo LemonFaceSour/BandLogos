@@ -1,1 +1,1 @@
-![Serj Tankian(artist.jpeg)]
+![Serj Tankian](artist.jpeg)

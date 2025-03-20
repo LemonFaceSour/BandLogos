@@ -1,1 +1,1 @@
-![The Mooney Suzuki(artist.jpeg)]
+![The Mooney Suzuki](artist.jpeg)

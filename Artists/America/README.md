@@ -1,1 +1,1 @@
-![America(artist.jpeg)]
+![America](artist.jpeg)

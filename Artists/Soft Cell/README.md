@@ -1,1 +1,1 @@
-![Soft Cell(artist.jpeg)]
+![Soft Cell](artist.jpeg)

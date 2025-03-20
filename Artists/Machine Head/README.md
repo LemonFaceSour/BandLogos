@@ -1,1 +1,1 @@
-![Machine Head(artist.jpeg)]
+![Machine Head](artist.jpeg)

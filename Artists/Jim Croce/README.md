@@ -1,1 +1,1 @@
-![Jim Croce(artist.jpeg)]
+![Jim Croce](artist.jpeg)

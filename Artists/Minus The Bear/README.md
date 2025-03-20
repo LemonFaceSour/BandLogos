@@ -1,1 +1,1 @@
-![Minus The Bear(artist.jpeg)]
+![Minus The Bear](artist.jpeg)

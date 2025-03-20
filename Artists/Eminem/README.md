@@ -1,1 +1,1 @@
-![Eminem(artist.jpeg)]
+![Eminem](artist.jpeg)

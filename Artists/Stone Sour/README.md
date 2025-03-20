@@ -1,1 +1,1 @@
-![Stone Sour(artist.jpeg)]
+![Stone Sour](artist.jpeg)

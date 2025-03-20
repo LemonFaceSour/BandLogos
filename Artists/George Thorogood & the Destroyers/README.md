@@ -1,1 +1,1 @@
-![George Thorogood & the Destroyers(artist.jpeg)]
+![George Thorogood & the Destroyers](artist.jpeg)

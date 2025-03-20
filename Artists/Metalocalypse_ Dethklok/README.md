@@ -1,1 +1,1 @@
-![Metalocalypse_ Dethklok(artist.jpeg)]
+![Metalocalypse_ Dethklok](artist.jpeg)

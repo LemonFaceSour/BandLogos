@@ -1,1 +1,1 @@
-![New Arcades(artist.jpeg)]
+![New Arcades](artist.jpeg)

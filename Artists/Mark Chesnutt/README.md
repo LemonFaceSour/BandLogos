@@ -1,1 +1,1 @@
-![Mark Chesnutt(artist.jpeg)]
+![Mark Chesnutt](artist.jpeg)

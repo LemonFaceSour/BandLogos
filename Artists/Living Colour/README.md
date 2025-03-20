@@ -1,1 +1,1 @@
-![Living Colour(artist.jpeg)]
+![Living Colour](artist.jpeg)

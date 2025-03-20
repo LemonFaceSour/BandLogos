@@ -1,1 +1,1 @@
-![Primer 55(artist.jpeg)]
+![Primer 55](artist.jpeg)

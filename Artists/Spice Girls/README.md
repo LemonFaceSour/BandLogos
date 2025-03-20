@@ -1,1 +1,1 @@
-![Spice Girls(artist.jpeg)]
+![Spice Girls](artist.jpeg)

@@ -1,1 +1,1 @@
-![Jimmy Buffet(artist.jpeg)]
+![Jimmy Buffet](artist.jpeg)

@@ -1,1 +1,1 @@
-![Pressure 4-5(artist.jpeg)]
+![Pressure 4-5](artist.jpeg)

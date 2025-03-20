@@ -1,1 +1,1 @@
-![Rollins Band(artist.jpeg)]
+![Rollins Band](artist.jpeg)

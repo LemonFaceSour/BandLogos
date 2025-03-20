@@ -1,1 +1,1 @@
-![Bullet For My Valentine(artist.jpeg)]
+![Bullet For My Valentine](artist.jpeg)

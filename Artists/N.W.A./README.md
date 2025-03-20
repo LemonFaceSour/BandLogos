@@ -1,1 +1,1 @@
-![N.W.A.(artist.jpeg)]
+![N.W.A.](artist.jpeg)

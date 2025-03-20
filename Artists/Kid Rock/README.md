@@ -1,1 +1,1 @@
-![Kid Rock(artist.jpeg)]
+![Kid Rock](artist.jpeg)

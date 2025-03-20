@@ -1,1 +1,1 @@
-![Magic Dance(artist.jpeg)]
+![Magic Dance](artist.jpeg)

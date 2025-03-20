@@ -1,1 +1,1 @@
-![Comeback Kid(artist.jpeg)]
+![Comeback Kid](artist.jpeg)

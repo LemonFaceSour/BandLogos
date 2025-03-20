@@ -1,1 +1,1 @@
-![The Deadlights(artist.jpeg)]
+![The Deadlights](artist.jpeg)

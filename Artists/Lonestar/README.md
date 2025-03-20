@@ -1,1 +1,1 @@
-![Lonestar(artist.jpeg)]
+![Lonestar](artist.jpeg)

@@ -1,1 +1,1 @@
-![Tlc(artist.jpeg)]
+![Tlc](artist.jpeg)

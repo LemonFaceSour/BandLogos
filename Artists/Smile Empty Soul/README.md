@@ -1,1 +1,1 @@
-![Smile Empty Soul(artist.jpeg)]
+![Smile Empty Soul](artist.jpeg)

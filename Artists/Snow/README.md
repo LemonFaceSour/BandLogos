@@ -1,1 +1,1 @@
-![Snow(artist.jpeg)]
+![Snow](artist.jpeg)

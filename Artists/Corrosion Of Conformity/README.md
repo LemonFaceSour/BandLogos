@@ -1,1 +1,1 @@
-![Corrosion Of Conformity(artist.jpeg)]
+![Corrosion Of Conformity](artist.jpeg)

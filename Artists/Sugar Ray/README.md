@@ -1,1 +1,1 @@
-![Sugar Ray(artist.jpeg)]
+![Sugar Ray](artist.jpeg)

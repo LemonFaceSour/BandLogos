@@ -1,1 +1,1 @@
-![Flaw(artist.jpeg)]
+![Flaw](artist.jpeg)

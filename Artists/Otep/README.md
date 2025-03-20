@@ -1,1 +1,1 @@
-![Otep(artist.jpeg)]
+![Otep](artist.jpeg)

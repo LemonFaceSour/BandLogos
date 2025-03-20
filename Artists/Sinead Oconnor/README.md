@@ -1,1 +1,1 @@
-![Sinead Oconnor(artist.jpeg)]
+![Sinead Oconnor](artist.jpeg)

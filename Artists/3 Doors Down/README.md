@@ -1,1 +1,1 @@
-![3 Doors Down(artist.jpeg)]
+![3 Doors Down](artist.jpeg)

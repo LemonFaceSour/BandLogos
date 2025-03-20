@@ -1,1 +1,1 @@
-![Gwar(artist.jpeg)]
+![Gwar](artist.jpeg)

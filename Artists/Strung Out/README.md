@@ -1,1 +1,1 @@
-![Strung Out(artist.jpeg)]
+![Strung Out](artist.jpeg)

@@ -1,1 +1,1 @@
-![The Beatles(artist.jpeg)]
+![The Beatles](artist.jpeg)

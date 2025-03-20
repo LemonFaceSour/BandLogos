@@ -1,1 +1,1 @@
-![Pantera(artist.jpeg)]
+![Pantera](artist.jpeg)

@@ -1,1 +1,1 @@
-![Fatboy Slim(artist.jpeg)]
+![Fatboy Slim](artist.jpeg)

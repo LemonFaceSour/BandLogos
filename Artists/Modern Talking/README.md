@@ -1,1 +1,1 @@
-![Modern Talking(artist.jpeg)]
+![Modern Talking](artist.jpeg)

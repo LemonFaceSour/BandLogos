@@ -1,1 +1,1 @@
-![Old Man Markley(artist.jpeg)]
+![Old Man Markley](artist.jpeg)

@@ -1,1 +1,1 @@
-![Mindless Self Indulgence(artist.jpeg)]
+![Mindless Self Indulgence](artist.jpeg)

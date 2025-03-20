@@ -1,1 +1,1 @@
-![Sixpence None The Richer(artist.jpeg)]
+![Sixpence None The Richer](artist.jpeg)

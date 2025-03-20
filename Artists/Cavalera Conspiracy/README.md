@@ -1,1 +1,1 @@
-![Cavalera Conspiracy(artist.jpeg)]
+![Cavalera Conspiracy](artist.jpeg)

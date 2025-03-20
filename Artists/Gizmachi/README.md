@@ -1,1 +1,1 @@
-![Gizmachi(artist.jpeg)]
+![Gizmachi](artist.jpeg)

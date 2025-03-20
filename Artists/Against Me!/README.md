@@ -1,1 +1,1 @@
-![Against Me!(artist.jpeg)]
+![Against Me!](artist.jpeg)

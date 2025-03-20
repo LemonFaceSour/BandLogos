@@ -1,1 +1,1 @@
-![Nickleback(artist.jpeg)]
+![Nickleback](artist.jpeg)

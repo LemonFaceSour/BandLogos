@@ -1,1 +1,1 @@
-![From Autumn To Ashes(artist.jpeg)]
+![From Autumn To Ashes](artist.jpeg)

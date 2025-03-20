@@ -1,1 +1,1 @@
-![Jeff Rosenstock(artist.jpeg)]
+![Jeff Rosenstock](artist.jpeg)

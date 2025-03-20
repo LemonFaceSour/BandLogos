@@ -1,1 +1,1 @@
-![Soulfly(artist.jpeg)]
+![Soulfly](artist.jpeg)

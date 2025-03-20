@@ -1,1 +1,1 @@
-![Chimaira(artist.jpeg)]
+![Chimaira](artist.jpeg)

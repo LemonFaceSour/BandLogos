@@ -1,1 +1,1 @@
-![Crossfade(artist.jpeg)]
+![Crossfade](artist.jpeg)

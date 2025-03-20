@@ -1,1 +1,1 @@
-![Fuel(artist.jpeg)]
+![Fuel](artist.jpeg)

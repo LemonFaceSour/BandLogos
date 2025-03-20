@@ -1,1 +1,1 @@
-![Soilwork(artist.jpeg)]
+![Soilwork](artist.jpeg)

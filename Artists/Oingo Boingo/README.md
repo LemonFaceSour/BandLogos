@@ -1,1 +1,1 @@
-![Oingo Boingo(artist.jpeg)]
+![Oingo Boingo](artist.jpeg)

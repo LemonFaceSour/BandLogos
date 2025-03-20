@@ -1,1 +1,1 @@
-![Cheech And Chong(artist.jpeg)]
+![Cheech And Chong](artist.jpeg)

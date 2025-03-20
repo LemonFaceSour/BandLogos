@@ -1,1 +1,1 @@
-![Temple of the Dog(artist.jpeg)]
+![Temple of the Dog](artist.jpeg)

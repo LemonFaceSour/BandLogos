@@ -1,1 +1,1 @@
-![AC_DC(artist.jpeg)]
+![AC_DC](artist.jpeg)

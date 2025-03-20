@@ -1,1 +1,1 @@
-![Deep Blue Something(artist.jpeg)]
+![Deep Blue Something](artist.jpeg)

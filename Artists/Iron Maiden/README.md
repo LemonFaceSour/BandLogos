@@ -1,1 +1,1 @@
-![Iron Maiden(artist.jpeg)]
+![Iron Maiden](artist.jpeg)

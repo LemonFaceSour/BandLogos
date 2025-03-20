@@ -1,1 +1,1 @@
-![Billy Joel(artist.jpeg)]
+![Billy Joel](artist.jpeg)

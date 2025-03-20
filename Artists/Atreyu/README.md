@@ -1,1 +1,1 @@
-![Atreyu(artist.jpeg)]
+![Atreyu](artist.jpeg)

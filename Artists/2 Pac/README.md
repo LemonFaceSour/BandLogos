@@ -1,1 +1,1 @@
-![2 Pac(artist.jpeg)]
+![2 Pac](artist.jpeg)

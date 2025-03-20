@@ -1,1 +1,1 @@
-![Zeus(artist.jpeg)]
+![Zeus](artist.jpeg)

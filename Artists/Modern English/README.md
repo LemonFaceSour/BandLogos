@@ -1,1 +1,1 @@
-![Modern English(artist.jpeg)]
+![Modern English](artist.jpeg)

@@ -1,1 +1,1 @@
-![The Fugees(artist.jpeg)]
+![The Fugees](artist.jpeg)

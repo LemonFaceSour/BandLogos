@@ -1,1 +1,1 @@
-![Cold(artist.jpeg)]
+![Cold](artist.jpeg)

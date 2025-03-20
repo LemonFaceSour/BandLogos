@@ -1,1 +1,1 @@
-![Celldweller(artist.jpeg)]
+![Celldweller](artist.jpeg)

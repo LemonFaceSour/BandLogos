@@ -1,1 +1,1 @@
-![Every Time I Die(artist.jpeg)]
+![Every Time I Die](artist.jpeg)

@@ -1,1 +1,1 @@
-![The Venomous Pinks(artist.jpeg)]
+![The Venomous Pinks](artist.jpeg)

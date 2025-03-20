@@ -1,1 +1,1 @@
-![Rammstein(artist.jpeg)]
+![Rammstein](artist.jpeg)

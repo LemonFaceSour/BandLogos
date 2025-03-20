@@ -1,1 +1,1 @@
-![Mustard Plug(artist.jpeg)]
+![Mustard Plug](artist.jpeg)

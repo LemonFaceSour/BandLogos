@@ -1,1 +1,1 @@
-![The Go-Gos(artist.jpeg)]
+![The Go-Gos](artist.jpeg)

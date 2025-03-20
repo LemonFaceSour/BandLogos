@@ -1,1 +1,1 @@
-![Streetlight Manifesto(artist.jpeg)]
+![Streetlight Manifesto](artist.jpeg)

@@ -1,1 +1,1 @@
-![Ricky Martin(artist.jpeg)]
+![Ricky Martin](artist.jpeg)

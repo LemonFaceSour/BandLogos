@@ -1,1 +1,1 @@
-![Nirvana(artist.jpeg)]
+![Nirvana](artist.jpeg)

@@ -1,1 +1,1 @@
-![Santana(artist.jpeg)]
+![Santana](artist.jpeg)

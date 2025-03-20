@@ -1,1 +1,1 @@
-![a‐ha(artist.jpeg)]
+![a‐ha](artist.jpeg)

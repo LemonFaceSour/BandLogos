@@ -1,1 +1,1 @@
-![Vertical Horizon(artist.jpeg)]
+![Vertical Horizon](artist.jpeg)

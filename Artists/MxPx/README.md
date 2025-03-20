@@ -1,1 +1,1 @@
-![MxPx(artist.jpeg)]
+![MxPx](artist.jpeg)

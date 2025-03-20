@@ -1,1 +1,1 @@
-![The Chats(artist.jpeg)]
+![The Chats](artist.jpeg)

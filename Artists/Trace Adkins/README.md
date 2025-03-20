@@ -1,1 +1,1 @@
-![Trace Adkins(artist.jpeg)]
+![Trace Adkins](artist.jpeg)

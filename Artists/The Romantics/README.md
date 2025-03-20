@@ -1,1 +1,1 @@
-![The Romantics(artist.jpeg)]
+![The Romantics](artist.jpeg)

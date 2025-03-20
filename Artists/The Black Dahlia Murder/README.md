@@ -1,1 +1,1 @@
-![The Black Dahlia Murder(artist.jpeg)]
+![The Black Dahlia Murder](artist.jpeg)

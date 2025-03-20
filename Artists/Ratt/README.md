@@ -1,1 +1,1 @@
-![Ratt(artist.jpeg)]
+![Ratt](artist.jpeg)

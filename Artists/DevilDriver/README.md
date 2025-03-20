@@ -1,1 +1,1 @@
-![DevilDriver(artist.jpeg)]
+![DevilDriver](artist.jpeg)

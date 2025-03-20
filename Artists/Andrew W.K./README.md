@@ -1,1 +1,1 @@
-![Andrew W.K.(artist.jpeg)]
+![Andrew W.K.](artist.jpeg)

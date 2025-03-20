@@ -1,1 +1,1 @@
-![Undersea Poem(artist.jpeg)]
+![Undersea Poem](artist.jpeg)

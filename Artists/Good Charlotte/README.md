@@ -1,1 +1,1 @@
-![Good Charlotte(artist.jpeg)]
+![Good Charlotte](artist.jpeg)

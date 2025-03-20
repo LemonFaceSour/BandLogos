@@ -1,1 +1,1 @@
-![Johnny Cash(artist.jpeg)]
+![Johnny Cash](artist.jpeg)

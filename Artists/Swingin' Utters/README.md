@@ -1,1 +1,1 @@
-![Swingin' Utters(artist.jpeg)]
+![Swingin' Utters](artist.jpeg)

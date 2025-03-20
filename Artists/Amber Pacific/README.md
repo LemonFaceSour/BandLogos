@@ -1,1 +1,1 @@
-![Amber Pacific(artist.jpeg)]
+![Amber Pacific](artist.jpeg)

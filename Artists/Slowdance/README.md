@@ -1,1 +1,1 @@
-![Slowdance(artist.jpeg)]
+![Slowdance](artist.jpeg)

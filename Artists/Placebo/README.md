@@ -1,1 +1,1 @@
-![Placebo(artist.jpeg)]
+![Placebo](artist.jpeg)

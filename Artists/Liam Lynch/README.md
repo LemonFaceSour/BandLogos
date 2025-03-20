@@ -1,1 +1,1 @@
-![Liam Lynch(artist.jpeg)]
+![Liam Lynch](artist.jpeg)

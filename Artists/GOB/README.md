@@ -1,1 +1,1 @@
-![GOB(artist.jpeg)]
+![GOB](artist.jpeg)

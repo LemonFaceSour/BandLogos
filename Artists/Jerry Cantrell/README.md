@@ -1,1 +1,1 @@
-![Jerry Cantrell(artist.jpeg)]
+![Jerry Cantrell](artist.jpeg)

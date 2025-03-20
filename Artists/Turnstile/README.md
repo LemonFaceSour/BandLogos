@@ -1,1 +1,1 @@
-![Turnstile(artist.jpeg)]
+![Turnstile](artist.jpeg)

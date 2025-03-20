@@ -1,1 +1,1 @@
-![Goo Goo Dolls(artist.jpeg)]
+![Goo Goo Dolls](artist.jpeg)

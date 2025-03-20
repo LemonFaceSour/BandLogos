@@ -1,1 +1,1 @@
-![Monster Magnet(artist.jpeg)]
+![Monster Magnet](artist.jpeg)

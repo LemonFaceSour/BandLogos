@@ -1,1 +1,1 @@
-![Mudvayne(artist.jpeg)]
+![Mudvayne](artist.jpeg)

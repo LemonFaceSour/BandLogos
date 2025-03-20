@@ -1,1 +1,1 @@
-![Taproot(artist.jpeg)]
+![Taproot](artist.jpeg)

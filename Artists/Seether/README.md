@@ -1,1 +1,1 @@
-![Seether(artist.jpeg)]
+![Seether](artist.jpeg)

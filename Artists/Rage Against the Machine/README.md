@@ -1,1 +1,1 @@
-![Rage Against the Machine(artist.jpeg)]
+![Rage Against the Machine](artist.jpeg)

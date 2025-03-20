@@ -1,1 +1,1 @@
-![Blur(artist.jpeg)]
+![Blur](artist.jpeg)

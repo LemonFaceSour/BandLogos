@@ -1,1 +1,1 @@
-![Kenny Loggins(artist.jpeg)]
+![Kenny Loggins](artist.jpeg)

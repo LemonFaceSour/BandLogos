@@ -1,1 +1,1 @@
-![The Lillingtons(artist.jpeg)]
+![The Lillingtons](artist.jpeg)

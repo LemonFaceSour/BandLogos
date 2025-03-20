@@ -1,1 +1,1 @@
-![Swmrs(artist.jpeg)]
+![Swmrs](artist.jpeg)

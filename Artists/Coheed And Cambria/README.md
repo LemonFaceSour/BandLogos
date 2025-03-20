@@ -1,1 +1,1 @@
-![Coheed And Cambria(artist.jpeg)]
+![Coheed And Cambria](artist.jpeg)

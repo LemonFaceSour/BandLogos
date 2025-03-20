@@ -1,1 +1,1 @@
-![Three Days Grace(artist.jpeg)]
+![Three Days Grace](artist.jpeg)

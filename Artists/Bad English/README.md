@@ -1,1 +1,1 @@
-![Bad English(artist.jpeg)]
+![Bad English](artist.jpeg)

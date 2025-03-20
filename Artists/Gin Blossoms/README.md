@@ -1,1 +1,1 @@
-![Gin Blossoms(artist.jpeg)]
+![Gin Blossoms](artist.jpeg)

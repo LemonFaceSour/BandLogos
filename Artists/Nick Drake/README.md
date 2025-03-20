@@ -1,1 +1,1 @@
-![Nick Drake(artist.jpeg)]
+![Nick Drake](artist.jpeg)

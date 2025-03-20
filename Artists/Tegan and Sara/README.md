@@ -1,1 +1,1 @@
-![Tegan and Sara(artist.jpeg)]
+![Tegan and Sara](artist.jpeg)

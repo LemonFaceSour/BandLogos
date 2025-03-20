@@ -1,1 +1,1 @@
-![The Black Crowes(artist.jpeg)]
+![The Black Crowes](artist.jpeg)

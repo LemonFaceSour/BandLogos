@@ -1,1 +1,1 @@
-![Spin Doctors(artist.jpeg)]
+![Spin Doctors](artist.jpeg)

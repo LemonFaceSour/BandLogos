@@ -1,1 +1,1 @@
-![Pink Floyd(artist.jpeg)]
+![Pink Floyd](artist.jpeg)

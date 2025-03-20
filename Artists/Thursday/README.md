@@ -1,1 +1,1 @@
-![Thursday(artist.jpeg)]
+![Thursday](artist.jpeg)

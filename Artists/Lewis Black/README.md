@@ -1,1 +1,1 @@
-![Lewis Black(artist.jpeg)]
+![Lewis Black](artist.jpeg)

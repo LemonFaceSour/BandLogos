@@ -1,1 +1,1 @@
-![Bright Eyes(artist.jpeg)]
+![Bright Eyes](artist.jpeg)

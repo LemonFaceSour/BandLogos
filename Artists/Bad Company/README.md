@@ -1,1 +1,1 @@
-![Bad Company(artist.jpeg)]
+![Bad Company](artist.jpeg)

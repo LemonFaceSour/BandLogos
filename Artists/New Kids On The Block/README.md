@@ -1,1 +1,1 @@
-![New Kids On The Block(artist.jpeg)]
+![New Kids On The Block](artist.jpeg)

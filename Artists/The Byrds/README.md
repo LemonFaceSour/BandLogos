@@ -1,1 +1,1 @@
-![The Byrds(artist.jpeg)]
+![The Byrds](artist.jpeg)

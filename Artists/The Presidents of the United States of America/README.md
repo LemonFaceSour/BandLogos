@@ -1,1 +1,1 @@
-![The Presidents of the United States of America(artist.jpeg)]
+![The Presidents of the United States of America](artist.jpeg)

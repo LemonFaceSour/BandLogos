@@ -1,1 +1,1 @@
-![Steve Miller Band(artist.jpeg)]
+![Steve Miller Band](artist.jpeg)

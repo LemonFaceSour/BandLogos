@@ -1,1 +1,1 @@
-![Cradle of Filth(artist.jpeg)]
+![Cradle of Filth](artist.jpeg)

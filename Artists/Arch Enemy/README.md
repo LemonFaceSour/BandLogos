@@ -1,1 +1,1 @@
-![Arch Enemy(artist.jpeg)]
+![Arch Enemy](artist.jpeg)

@@ -1,1 +1,1 @@
-![Garth Brooks(artist.jpeg)]
+![Garth Brooks](artist.jpeg)

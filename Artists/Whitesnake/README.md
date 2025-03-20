@@ -1,1 +1,1 @@
-![Whitesnake(artist.jpeg)]
+![Whitesnake](artist.jpeg)

@@ -1,1 +1,1 @@
-![Tracy Chapman(artist.jpeg)]
+![Tracy Chapman](artist.jpeg)

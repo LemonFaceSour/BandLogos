@@ -1,1 +1,1 @@
-![Bon Jovi(artist.jpeg)]
+![Bon Jovi](artist.jpeg)

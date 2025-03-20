@@ -1,1 +1,1 @@
-![Street Dogs(artist.jpeg)]
+![Street Dogs](artist.jpeg)

@@ -1,1 +1,1 @@
-![The Germs(artist.jpeg)]
+![The Germs](artist.jpeg)

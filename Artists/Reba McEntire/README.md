@@ -1,1 +1,1 @@
-![Reba McEntire(artist.jpeg)]
+![Reba McEntire](artist.jpeg)

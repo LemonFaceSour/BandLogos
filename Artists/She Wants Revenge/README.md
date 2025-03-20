@@ -1,1 +1,1 @@
-![She Wants Revenge(artist.jpeg)]
+![She Wants Revenge](artist.jpeg)

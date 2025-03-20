@@ -1,1 +1,1 @@
-![The Doors(artist.jpeg)]
+![The Doors](artist.jpeg)

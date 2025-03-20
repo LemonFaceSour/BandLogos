@@ -1,1 +1,1 @@
-![Bob Seger(artist.jpeg)]
+![Bob Seger](artist.jpeg)

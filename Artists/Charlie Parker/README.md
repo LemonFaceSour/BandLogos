@@ -1,1 +1,1 @@
-![Charlie Parker(artist.jpeg)]
+![Charlie Parker](artist.jpeg)

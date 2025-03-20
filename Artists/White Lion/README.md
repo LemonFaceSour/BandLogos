@@ -1,1 +1,1 @@
-![White Lion(artist.jpeg)]
+![White Lion](artist.jpeg)

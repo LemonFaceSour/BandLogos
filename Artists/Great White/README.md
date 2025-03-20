@@ -1,1 +1,1 @@
-![Great White(artist.jpeg)]
+![Great White](artist.jpeg)

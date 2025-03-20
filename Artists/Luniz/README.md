@@ -1,1 +1,1 @@
-![Luniz(artist.jpeg)]
+![Luniz](artist.jpeg)

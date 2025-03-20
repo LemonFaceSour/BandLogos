@@ -1,1 +1,1 @@
-![Gogol Bordello(artist.jpeg)]
+![Gogol Bordello](artist.jpeg)

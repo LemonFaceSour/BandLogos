@@ -1,1 +1,1 @@
-![Knuckle Puck(artist.jpeg)]
+![Knuckle Puck](artist.jpeg)

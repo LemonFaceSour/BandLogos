@@ -1,1 +1,1 @@
-![Poe(artist.jpeg)]
+![Poe](artist.jpeg)

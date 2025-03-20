@@ -1,1 +1,1 @@
-![Out Of The Void(artist.jpeg)]
+![Out Of The Void](artist.jpeg)

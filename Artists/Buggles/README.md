@@ -1,1 +1,1 @@
-![Buggles(artist.jpeg)]
+![Buggles](artist.jpeg)

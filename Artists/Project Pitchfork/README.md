@@ -1,1 +1,1 @@
-![Project Pitchfork(artist.jpeg)]
+![Project Pitchfork](artist.jpeg)

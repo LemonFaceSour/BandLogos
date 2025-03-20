@@ -1,1 +1,1 @@
-![Passion Pit(artist.jpeg)]
+![Passion Pit](artist.jpeg)

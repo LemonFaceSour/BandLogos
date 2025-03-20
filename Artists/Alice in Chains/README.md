@@ -1,1 +1,1 @@
-![Alice in Chains(artist.jpeg)]
+![Alice in Chains](artist.jpeg)

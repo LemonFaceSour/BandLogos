@@ -1,1 +1,1 @@
-![Alter Bridge(artist.jpeg)]
+![Alter Bridge](artist.jpeg)

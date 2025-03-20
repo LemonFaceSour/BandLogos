@@ -1,1 +1,1 @@
-![Creedence Clearwater Revival(artist.jpeg)]
+![Creedence Clearwater Revival](artist.jpeg)

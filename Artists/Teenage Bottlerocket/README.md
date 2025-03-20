@@ -1,1 +1,1 @@
-![Teenage Bottlerocket(artist.jpeg)]
+![Teenage Bottlerocket](artist.jpeg)

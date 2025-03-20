@@ -1,1 +1,1 @@
-![Nightwish(artist.jpeg)]
+![Nightwish](artist.jpeg)

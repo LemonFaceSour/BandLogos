@@ -1,1 +1,1 @@
-![Danzig(artist.jpeg)]
+![Danzig](artist.jpeg)

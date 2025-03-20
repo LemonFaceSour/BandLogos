@@ -1,1 +1,1 @@
-![Avril Lavigne(artist.jpeg)]
+![Avril Lavigne](artist.jpeg)

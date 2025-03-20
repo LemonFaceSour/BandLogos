@@ -1,1 +1,1 @@
-![Avenged Sevenfold(artist.jpeg)]
+![Avenged Sevenfold](artist.jpeg)

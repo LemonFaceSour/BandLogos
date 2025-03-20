@@ -1,1 +1,1 @@
-![Time Again(artist.jpeg)]
+![Time Again](artist.jpeg)

@@ -1,1 +1,1 @@
-![Little Richard(artist.jpeg)]
+![Little Richard](artist.jpeg)

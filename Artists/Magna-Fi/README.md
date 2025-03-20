@@ -1,1 +1,1 @@
-![Magna-Fi(artist.jpeg)]
+![Magna-Fi](artist.jpeg)

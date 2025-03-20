@@ -1,1 +1,1 @@
-![311(artist.jpeg)]
+![311](artist.jpeg)

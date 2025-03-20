@@ -1,1 +1,1 @@
-![Tenacious D(artist.jpeg)]
+![Tenacious D](artist.jpeg)

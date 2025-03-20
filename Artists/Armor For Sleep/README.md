@@ -1,1 +1,1 @@
-![Armor For Sleep(artist.jpeg)]
+![Armor For Sleep](artist.jpeg)

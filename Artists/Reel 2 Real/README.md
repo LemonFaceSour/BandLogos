@@ -1,1 +1,1 @@
-![Reel 2 Real(artist.jpeg)]
+![Reel 2 Real](artist.jpeg)

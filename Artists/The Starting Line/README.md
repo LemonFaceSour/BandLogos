@@ -1,1 +1,1 @@
-![The Starting Line(artist.jpeg)]
+![The Starting Line](artist.jpeg)

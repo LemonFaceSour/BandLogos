@@ -1,1 +1,1 @@
-![Daughtry(artist.jpeg)]
+![Daughtry](artist.jpeg)

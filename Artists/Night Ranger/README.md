@@ -1,1 +1,1 @@
-![Night Ranger(artist.jpeg)]
+![Night Ranger](artist.jpeg)

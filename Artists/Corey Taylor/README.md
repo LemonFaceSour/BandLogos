@@ -1,1 +1,1 @@
-![Corey Taylor(artist.jpeg)]
+![Corey Taylor](artist.jpeg)

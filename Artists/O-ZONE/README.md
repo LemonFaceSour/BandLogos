@@ -1,1 +1,1 @@
-![O-ZONE(artist.jpeg)]
+![O-ZONE](artist.jpeg)

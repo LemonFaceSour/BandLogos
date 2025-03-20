@@ -1,1 +1,1 @@
-![Primus(artist.jpeg)]
+![Primus](artist.jpeg)

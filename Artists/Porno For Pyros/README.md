@@ -1,1 +1,1 @@
-![Porno For Pyros(artist.jpeg)]
+![Porno For Pyros](artist.jpeg)

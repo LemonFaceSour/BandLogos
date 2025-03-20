@@ -1,1 +1,1 @@
-![Descendents(artist.jpeg)]
+![Descendents](artist.jpeg)

@@ -1,1 +1,1 @@
-![Bayside(artist.jpeg)]
+![Bayside](artist.jpeg)

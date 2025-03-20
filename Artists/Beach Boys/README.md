@@ -1,1 +1,1 @@
-![Beach Boys(artist.jpeg)]
+![Beach Boys](artist.jpeg)

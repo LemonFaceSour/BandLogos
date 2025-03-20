@@ -1,1 +1,1 @@
-![Mad Caddies(artist.jpeg)]
+![Mad Caddies](artist.jpeg)

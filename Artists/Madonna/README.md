@@ -1,1 +1,1 @@
-![Madonna(artist.jpeg)]
+![Madonna](artist.jpeg)

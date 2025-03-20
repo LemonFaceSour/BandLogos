@@ -1,1 +1,1 @@
-![36 Crazyfists(artist.jpeg)]
+![36 Crazyfists](artist.jpeg)

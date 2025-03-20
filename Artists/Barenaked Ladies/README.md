@@ -1,1 +1,1 @@
-![Barenaked Ladies(artist.jpeg)]
+![Barenaked Ladies](artist.jpeg)

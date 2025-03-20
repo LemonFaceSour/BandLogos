@@ -1,1 +1,1 @@
-![Natalie Imbruglia(artist.jpeg)]
+![Natalie Imbruglia](artist.jpeg)

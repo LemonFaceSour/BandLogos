@@ -1,1 +1,1 @@
-![Sawyer Brown(artist.jpeg)]
+![Sawyer Brown](artist.jpeg)

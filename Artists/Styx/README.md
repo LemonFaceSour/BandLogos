@@ -1,1 +1,1 @@
-![Styx(artist.jpeg)]
+![Styx](artist.jpeg)

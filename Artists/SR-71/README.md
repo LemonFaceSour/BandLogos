@@ -1,1 +1,1 @@
-![SR-71(artist.jpeg)]
+![SR-71](artist.jpeg)

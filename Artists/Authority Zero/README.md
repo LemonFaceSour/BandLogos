@@ -1,1 +1,1 @@
-![Authority Zero(artist.jpeg)]
+![Authority Zero](artist.jpeg)

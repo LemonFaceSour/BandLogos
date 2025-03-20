@@ -1,1 +1,1 @@
-![Story Of The Year(artist.jpeg)]
+![Story Of The Year](artist.jpeg)

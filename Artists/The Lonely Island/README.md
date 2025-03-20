@@ -1,1 +1,1 @@
-![The Lonely Island(artist.jpeg)]
+![The Lonely Island](artist.jpeg)

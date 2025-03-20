@@ -1,1 +1,1 @@
-![John Denver(artist.jpeg)]
+![John Denver](artist.jpeg)

@@ -1,1 +1,1 @@
-![Hypocrisy(artist.jpeg)]
+![Hypocrisy](artist.jpeg)

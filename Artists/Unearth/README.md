@@ -1,1 +1,1 @@
-![Unearth(artist.jpeg)]
+![Unearth](artist.jpeg)

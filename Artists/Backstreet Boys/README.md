@@ -1,1 +1,1 @@
-![Backstreet Boys(artist.jpeg)]
+![Backstreet Boys](artist.jpeg)

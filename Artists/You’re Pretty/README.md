@@ -1,1 +1,1 @@
-![You’re Pretty(artist.jpeg)]
+![You’re Pretty](artist.jpeg)

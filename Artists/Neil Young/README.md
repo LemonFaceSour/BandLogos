@@ -1,1 +1,1 @@
-![Neil Young(artist.jpeg)]
+![Neil Young](artist.jpeg)

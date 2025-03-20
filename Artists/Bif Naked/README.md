@@ -1,1 +1,1 @@
-![Bif Naked(artist.jpeg)]
+![Bif Naked](artist.jpeg)

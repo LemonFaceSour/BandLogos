@@ -1,1 +1,1 @@
-![Yellowcard(artist.jpeg)]
+![Yellowcard](artist.jpeg)

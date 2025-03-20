@@ -1,1 +1,1 @@
-![Lovehatehero(artist.jpeg)]
+![Lovehatehero](artist.jpeg)

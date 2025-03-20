@@ -1,1 +1,1 @@
-![Black Eyed Peas(artist.jpeg)]
+![Black Eyed Peas](artist.jpeg)

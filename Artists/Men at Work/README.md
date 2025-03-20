@@ -1,1 +1,1 @@
-![Men at Work(artist.jpeg)]
+![Men at Work](artist.jpeg)

@@ -1,1 +1,1 @@
-![kidneythieves(artist.jpeg)]
+![kidneythieves](artist.jpeg)

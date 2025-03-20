@@ -1,1 +1,1 @@
-![Crime In Stereo(artist.jpeg)]
+![Crime In Stereo](artist.jpeg)

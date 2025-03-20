@@ -1,1 +1,1 @@
-![Korn(artist.jpeg)]
+![Korn](artist.jpeg)

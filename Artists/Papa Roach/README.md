@@ -1,1 +1,1 @@
-![Papa Roach(artist.jpeg)]
+![Papa Roach](artist.jpeg)

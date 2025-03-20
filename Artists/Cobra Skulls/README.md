@@ -1,1 +1,1 @@
-![Cobra Skulls(artist.jpeg)]
+![Cobra Skulls](artist.jpeg)

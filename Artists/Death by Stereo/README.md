@@ -1,1 +1,1 @@
-![Death by Stereo(artist.jpeg)]
+![Death by Stereo](artist.jpeg)

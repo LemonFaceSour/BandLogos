@@ -1,1 +1,1 @@
-![T-Pain(artist.jpeg)]
+![T-Pain](artist.jpeg)

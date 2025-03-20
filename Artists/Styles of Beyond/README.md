@@ -1,1 +1,1 @@
-![Styles of Beyond(artist.jpeg)]
+![Styles of Beyond](artist.jpeg)

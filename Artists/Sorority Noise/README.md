@@ -1,1 +1,1 @@
-![Sorority Noise(artist.jpeg)]
+![Sorority Noise](artist.jpeg)

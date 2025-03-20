@@ -1,1 +1,1 @@
-![Hot Mulligan(artist.jpeg)]
+![Hot Mulligan](artist.jpeg)

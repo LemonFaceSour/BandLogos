@@ -1,1 +1,1 @@
-![The Prodigy(artist.jpeg)]
+![The Prodigy](artist.jpeg)

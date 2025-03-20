@@ -1,1 +1,1 @@
-![Local H(artist.jpeg)]
+![Local H](artist.jpeg)

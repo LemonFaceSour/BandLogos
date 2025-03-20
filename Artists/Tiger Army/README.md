@@ -1,1 +1,1 @@
-![Tiger Army(artist.jpeg)]
+![Tiger Army](artist.jpeg)

@@ -1,1 +1,1 @@
-![Guttermouth(artist.jpeg)]
+![Guttermouth](artist.jpeg)

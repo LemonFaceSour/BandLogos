@@ -1,1 +1,1 @@
-![Golden Earring(artist.jpeg)]
+![Golden Earring](artist.jpeg)

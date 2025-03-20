@@ -1,1 +1,1 @@
-![Mötley Crüe(artist.jpeg)]
+![Mötley Crüe](artist.jpeg)

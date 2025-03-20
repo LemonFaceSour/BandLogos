@@ -1,1 +1,1 @@
-![Consumed(artist.jpeg)]
+![Consumed](artist.jpeg)

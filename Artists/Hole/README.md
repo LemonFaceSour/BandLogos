@@ -1,1 +1,1 @@
-![Hole(artist.jpeg)]
+![Hole](artist.jpeg)

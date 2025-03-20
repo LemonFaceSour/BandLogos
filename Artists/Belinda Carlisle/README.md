@@ -1,1 +1,1 @@
-![Belinda Carlisle(artist.jpeg)]
+![Belinda Carlisle](artist.jpeg)

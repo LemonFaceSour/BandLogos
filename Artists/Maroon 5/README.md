@@ -1,1 +1,1 @@
-![Maroon 5(artist.jpeg)]
+![Maroon 5](artist.jpeg)

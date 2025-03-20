@@ -1,1 +1,1 @@
-![Foreigner(artist.jpeg)]
+![Foreigner](artist.jpeg)

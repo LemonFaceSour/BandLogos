@@ -1,1 +1,1 @@
-![Saosin(artist.jpeg)]
+![Saosin](artist.jpeg)

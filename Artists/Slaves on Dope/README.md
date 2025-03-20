@@ -1,1 +1,1 @@
-![Slaves on Dope(artist.jpeg)]
+![Slaves on Dope](artist.jpeg)

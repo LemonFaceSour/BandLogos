@@ -1,1 +1,1 @@
-![Green Day(artist.jpeg)]
+![Green Day](artist.jpeg)

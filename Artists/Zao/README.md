@@ -1,1 +1,1 @@
-![Zao(artist.jpeg)]
+![Zao](artist.jpeg)

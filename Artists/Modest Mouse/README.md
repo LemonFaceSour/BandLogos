@@ -1,1 +1,1 @@
-![Modest Mouse(artist.jpeg)]
+![Modest Mouse](artist.jpeg)

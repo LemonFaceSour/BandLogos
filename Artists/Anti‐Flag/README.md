@@ -1,1 +1,1 @@
-![Anti‐Flag(artist.jpeg)]
+![Anti‐Flag](artist.jpeg)

@@ -1,1 +1,1 @@
-![The Animals(artist.jpeg)]
+![The Animals](artist.jpeg)

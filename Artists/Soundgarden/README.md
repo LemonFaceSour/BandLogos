@@ -1,1 +1,1 @@
-![Soundgarden(artist.jpeg)]
+![Soundgarden](artist.jpeg)

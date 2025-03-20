@@ -1,1 +1,1 @@
-![Third Eye Blind(artist.jpeg)]
+![Third Eye Blind](artist.jpeg)

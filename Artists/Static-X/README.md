@@ -1,1 +1,1 @@
-![Static-X(artist.jpeg)]
+![Static-X](artist.jpeg)

@@ -1,1 +1,1 @@
-![Lars Frederiksen And The Bastards(artist.jpeg)]
+![Lars Frederiksen And The Bastards](artist.jpeg)

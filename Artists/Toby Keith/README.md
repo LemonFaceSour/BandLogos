@@ -1,1 +1,1 @@
-![Toby Keith(artist.jpeg)]
+![Toby Keith](artist.jpeg)

@@ -1,1 +1,1 @@
-![Extreme(artist.jpeg)]
+![Extreme](artist.jpeg)

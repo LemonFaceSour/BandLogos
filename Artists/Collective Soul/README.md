@@ -1,1 +1,1 @@
-![Collective Soul(artist.jpeg)]
+![Collective Soul](artist.jpeg)

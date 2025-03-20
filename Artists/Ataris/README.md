@@ -1,1 +1,1 @@
-![Ataris(artist.jpeg)]
+![Ataris](artist.jpeg)

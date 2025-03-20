@@ -1,1 +1,1 @@
-![10 Years(artist.jpeg)]
+![10 Years](artist.jpeg)

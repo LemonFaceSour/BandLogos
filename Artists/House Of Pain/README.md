@@ -1,1 +1,1 @@
-![House Of Pain(artist.jpeg)]
+![House Of Pain](artist.jpeg)

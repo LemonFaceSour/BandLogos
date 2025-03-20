@@ -1,1 +1,1 @@
-![Lagwagon(artist.jpeg)]
+![Lagwagon](artist.jpeg)

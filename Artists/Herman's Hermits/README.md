@@ -1,1 +1,1 @@
-![Herman's Hermits(artist.jpeg)]
+![Herman's Hermits](artist.jpeg)

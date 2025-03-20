@@ -1,1 +1,1 @@
-![Little-T and One Track Mike(artist.jpeg)]
+![Little-T and One Track Mike](artist.jpeg)

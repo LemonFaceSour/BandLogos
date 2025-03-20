@@ -1,1 +1,1 @@
-![Rob Zombie(artist.jpeg)]
+![Rob Zombie](artist.jpeg)

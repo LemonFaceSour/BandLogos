@@ -1,1 +1,1 @@
-![Joe Walsh(artist.jpeg)]
+![Joe Walsh](artist.jpeg)

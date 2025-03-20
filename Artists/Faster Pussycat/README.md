@@ -1,1 +1,1 @@
-![Faster Pussycat(artist.jpeg)]
+![Faster Pussycat](artist.jpeg)

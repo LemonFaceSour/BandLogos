@@ -1,1 +1,1 @@
-![The Edgar Winter Group(artist.jpeg)]
+![The Edgar Winter Group](artist.jpeg)

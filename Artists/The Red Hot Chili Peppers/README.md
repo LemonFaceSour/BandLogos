@@ -1,1 +1,1 @@
-![The Red Hot Chili Peppers(artist.jpeg)]
+![The Red Hot Chili Peppers](artist.jpeg)

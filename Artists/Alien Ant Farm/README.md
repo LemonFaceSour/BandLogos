@@ -1,1 +1,1 @@
-![Alien Ant Farm(artist.jpeg)]
+![Alien Ant Farm](artist.jpeg)

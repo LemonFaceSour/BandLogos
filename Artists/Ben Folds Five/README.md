@@ -1,1 +1,1 @@
-![Ben Folds Five(artist.jpeg)]
+![Ben Folds Five](artist.jpeg)

@@ -1,1 +1,1 @@
-![Metro Station(artist.jpeg)]
+![Metro Station](artist.jpeg)

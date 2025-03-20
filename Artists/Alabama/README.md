@@ -1,1 +1,1 @@
-![Alabama(artist.jpeg)]
+![Alabama](artist.jpeg)

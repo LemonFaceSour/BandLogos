@@ -1,1 +1,1 @@
-![Dead Boys(artist.jpeg)]
+![Dead Boys](artist.jpeg)

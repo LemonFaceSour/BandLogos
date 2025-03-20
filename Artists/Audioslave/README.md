@@ -1,1 +1,1 @@
-![Audioslave(artist.jpeg)]
+![Audioslave](artist.jpeg)

@@ -1,1 +1,1 @@
-![Cannible corpse(artist.jpeg)]
+![Cannible corpse](artist.jpeg)

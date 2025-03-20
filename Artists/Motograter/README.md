@@ -1,1 +1,1 @@
-![Motograter(artist.jpeg)]
+![Motograter](artist.jpeg)

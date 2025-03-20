@@ -1,1 +1,1 @@
-![Fenix TX(artist.jpeg)]
+![Fenix TX](artist.jpeg)

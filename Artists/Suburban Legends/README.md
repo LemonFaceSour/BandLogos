@@ -1,1 +1,1 @@
-![Suburban Legends(artist.jpeg)]
+![Suburban Legends](artist.jpeg)

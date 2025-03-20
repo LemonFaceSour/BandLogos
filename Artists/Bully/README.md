@@ -1,1 +1,1 @@
-![Bully(artist.jpeg)]
+![Bully](artist.jpeg)

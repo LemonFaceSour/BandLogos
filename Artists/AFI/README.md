@@ -1,1 +1,1 @@
-![AFI(artist.jpeg)]
+![AFI](artist.jpeg)

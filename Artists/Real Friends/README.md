@@ -1,1 +1,1 @@
-![Real Friends(artist.jpeg)]
+![Real Friends](artist.jpeg)

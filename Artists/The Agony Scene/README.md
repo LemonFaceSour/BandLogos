@@ -1,1 +1,1 @@
-![The Agony Scene(artist.jpeg)]
+![The Agony Scene](artist.jpeg)

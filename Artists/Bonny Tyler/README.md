@@ -1,1 +1,1 @@
-![Bonny Tyler(artist.jpeg)]
+![Bonny Tyler](artist.jpeg)

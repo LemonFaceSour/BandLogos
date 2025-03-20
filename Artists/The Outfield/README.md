@@ -1,1 +1,1 @@
-![The Outfield(artist.jpeg)]
+![The Outfield](artist.jpeg)

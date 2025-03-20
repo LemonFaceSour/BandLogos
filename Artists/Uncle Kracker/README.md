@@ -1,1 +1,1 @@
-![Uncle Kracker(artist.jpeg)]
+![Uncle Kracker](artist.jpeg)

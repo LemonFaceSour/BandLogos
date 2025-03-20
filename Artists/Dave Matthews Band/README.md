@@ -1,1 +1,1 @@
-![Dave Matthews Band(artist.jpeg)]
+![Dave Matthews Band](artist.jpeg)

@@ -1,1 +1,1 @@
-![Ace Buchannon(artist.jpeg)]
+![Ace Buchannon](artist.jpeg)

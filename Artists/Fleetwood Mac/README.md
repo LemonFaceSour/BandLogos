@@ -1,1 +1,1 @@
-![Fleetwood Mac(artist.jpeg)]
+![Fleetwood Mac](artist.jpeg)

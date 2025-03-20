@@ -1,1 +1,1 @@
-![Damageplan(artist.jpeg)]
+![Damageplan](artist.jpeg)

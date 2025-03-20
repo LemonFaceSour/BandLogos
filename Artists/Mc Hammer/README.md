@@ -1,1 +1,1 @@
-![Mc Hammer(artist.jpeg)]
+![Mc Hammer](artist.jpeg)

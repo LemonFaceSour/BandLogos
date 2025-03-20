@@ -1,1 +1,1 @@
-![Jessica Simpson(artist.jpeg)]
+![Jessica Simpson](artist.jpeg)

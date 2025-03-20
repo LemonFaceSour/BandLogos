@@ -1,1 +1,1 @@
-![Systematic(artist.jpeg)]
+![Systematic](artist.jpeg)

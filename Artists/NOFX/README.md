@@ -1,1 +1,1 @@
-![NOFX(artist.jpeg)]
+![NOFX](artist.jpeg)

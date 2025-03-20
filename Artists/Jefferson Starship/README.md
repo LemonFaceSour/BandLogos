@@ -1,1 +1,1 @@
-![Jefferson Starship(artist.jpeg)]
+![Jefferson Starship](artist.jpeg)

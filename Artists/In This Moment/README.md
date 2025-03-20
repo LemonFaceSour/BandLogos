@@ -1,1 +1,1 @@
-![In This Moment(artist.jpeg)]
+![In This Moment](artist.jpeg)

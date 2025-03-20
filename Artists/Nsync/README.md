@@ -1,1 +1,1 @@
-![Nsync(artist.jpeg)]
+![Nsync](artist.jpeg)

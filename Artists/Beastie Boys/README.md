@@ -1,1 +1,1 @@
-![Beastie Boys(artist.jpeg)]
+![Beastie Boys](artist.jpeg)

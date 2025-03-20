@@ -1,1 +1,1 @@
-![The Get Up Kids(artist.jpeg)]
+![The Get Up Kids](artist.jpeg)

@@ -1,1 +1,1 @@
-![The Bled(artist.jpeg)]
+![The Bled](artist.jpeg)

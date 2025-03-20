@@ -1,1 +1,1 @@
-![Black Flag(artist.jpeg)]
+![Black Flag](artist.jpeg)

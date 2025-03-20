@@ -1,1 +1,1 @@
-![Sugarcult(artist.jpeg)]
+![Sugarcult](artist.jpeg)

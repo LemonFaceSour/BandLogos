@@ -1,1 +1,1 @@
-![US Bombs(artist.jpeg)]
+![US Bombs](artist.jpeg)

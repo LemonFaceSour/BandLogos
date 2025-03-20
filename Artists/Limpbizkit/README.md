@@ -1,1 +1,1 @@
-![Limpbizkit(artist.jpeg)]
+![Limpbizkit](artist.jpeg)

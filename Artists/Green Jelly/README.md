@@ -1,1 +1,1 @@
-![Green Jelly(artist.jpeg)]
+![Green Jelly](artist.jpeg)

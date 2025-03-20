@@ -1,1 +1,1 @@
-![Mariah Carey(artist.jpeg)]
+![Mariah Carey](artist.jpeg)

@@ -1,1 +1,1 @@
-![It Dies Today(artist.jpeg)]
+![It Dies Today](artist.jpeg)

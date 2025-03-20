@@ -1,1 +1,1 @@
-![Saliva(artist.jpeg)]
+![Saliva](artist.jpeg)

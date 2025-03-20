@@ -1,1 +1,1 @@
-![Flatfoot 56(artist.jpeg)]
+![Flatfoot 56](artist.jpeg)

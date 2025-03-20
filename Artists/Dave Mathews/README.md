@@ -1,1 +1,1 @@
-![Dave Mathews(artist.jpeg)]
+![Dave Mathews](artist.jpeg)

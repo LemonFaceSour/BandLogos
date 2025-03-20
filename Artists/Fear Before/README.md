@@ -1,1 +1,1 @@
-![Fear Before(artist.jpeg)]
+![Fear Before](artist.jpeg)

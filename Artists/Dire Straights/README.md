@@ -1,1 +1,1 @@
-![Dire Straights(artist.jpeg)]
+![Dire Straights](artist.jpeg)

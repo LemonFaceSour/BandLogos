@@ -1,1 +1,1 @@
-![Slayer(artist.jpeg)]
+![Slayer](artist.jpeg)

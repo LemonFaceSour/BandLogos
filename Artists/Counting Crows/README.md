@@ -1,1 +1,1 @@
-![Counting Crows(artist.jpeg)]
+![Counting Crows](artist.jpeg)

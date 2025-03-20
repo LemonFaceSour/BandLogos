@@ -1,1 +1,1 @@
-![The Explosion(artist.jpeg)]
+![The Explosion](artist.jpeg)

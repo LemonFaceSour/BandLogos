@@ -1,1 +1,1 @@
-![Lisa Loeb(artist.jpeg)]
+![Lisa Loeb](artist.jpeg)

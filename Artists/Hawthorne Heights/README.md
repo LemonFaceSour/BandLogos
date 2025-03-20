@@ -1,1 +1,1 @@
-![Hawthorne Heights(artist.jpeg)]
+![Hawthorne Heights](artist.jpeg)

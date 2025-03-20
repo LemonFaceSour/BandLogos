@@ -1,1 +1,1 @@
-![Toadies(artist.jpeg)]
+![Toadies](artist.jpeg)

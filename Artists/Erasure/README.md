@@ -1,1 +1,1 @@
-![Erasure(artist.jpeg)]
+![Erasure](artist.jpeg)

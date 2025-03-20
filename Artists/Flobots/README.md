@@ -1,1 +1,1 @@
-![Flobots(artist.jpeg)]
+![Flobots](artist.jpeg)

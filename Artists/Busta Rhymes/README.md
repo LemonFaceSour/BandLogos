@@ -1,1 +1,1 @@
-![Busta Rhymes(artist.jpeg)]
+![Busta Rhymes](artist.jpeg)

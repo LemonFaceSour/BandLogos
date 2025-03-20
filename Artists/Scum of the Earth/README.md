@@ -1,1 +1,1 @@
-![Scum of the Earth(artist.jpeg)]
+![Scum of the Earth](artist.jpeg)

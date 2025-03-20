@@ -1,1 +1,1 @@
-![Sum 41(artist.jpeg)]
+![Sum 41](artist.jpeg)

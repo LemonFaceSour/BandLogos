@@ -1,1 +1,1 @@
-![Puddle Of Mudd(artist.jpeg)]
+![Puddle Of Mudd](artist.jpeg)

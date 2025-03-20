@@ -1,1 +1,1 @@
-![duncan sheik(artist.jpeg)]
+![duncan sheik](artist.jpeg)

@@ -1,1 +1,1 @@
-![Brian McKnight(artist.jpeg)]
+![Brian McKnight](artist.jpeg)

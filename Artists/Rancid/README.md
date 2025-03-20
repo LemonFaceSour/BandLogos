@@ -1,1 +1,1 @@
-![Rancid(artist.jpeg)]
+![Rancid](artist.jpeg)

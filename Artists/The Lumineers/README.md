@@ -1,1 +1,1 @@
-![The Lumineers(artist.jpeg)]
+![The Lumineers](artist.jpeg)

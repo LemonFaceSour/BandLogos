@@ -1,1 +1,1 @@
-![Ted Nugent(artist.jpeg)]
+![Ted Nugent](artist.jpeg)

@@ -1,1 +1,1 @@
-![Candlebox(artist.jpeg)]
+![Candlebox](artist.jpeg)

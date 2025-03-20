@@ -1,1 +1,1 @@
-![The Pixies(artist.jpeg)]
+![The Pixies](artist.jpeg)

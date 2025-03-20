@@ -1,1 +1,1 @@
-![The Chisel(artist.jpeg)]
+![The Chisel](artist.jpeg)

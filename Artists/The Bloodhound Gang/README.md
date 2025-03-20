@@ -1,1 +1,1 @@
-![The Bloodhound Gang(artist.jpeg)]
+![The Bloodhound Gang](artist.jpeg)

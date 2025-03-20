@@ -1,1 +1,1 @@
-![The Interrupters(artist.jpeg)]
+![The Interrupters](artist.jpeg)

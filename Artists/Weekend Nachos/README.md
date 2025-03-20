@@ -1,1 +1,1 @@
-![Weekend Nachos(artist.jpeg)]
+![Weekend Nachos](artist.jpeg)

@@ -1,1 +1,1 @@
-![David Bowie(artist.jpeg)]
+![David Bowie](artist.jpeg)

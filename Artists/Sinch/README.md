@@ -1,1 +1,1 @@
-![Sinch(artist.jpeg)]
+![Sinch](artist.jpeg)

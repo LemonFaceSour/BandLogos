@@ -1,1 +1,1 @@
-![Jay-Z(artist.jpeg)]
+![Jay-Z](artist.jpeg)

@@ -1,1 +1,1 @@
-![Dimmu Borgir(artist.jpeg)]
+![Dimmu Borgir](artist.jpeg)

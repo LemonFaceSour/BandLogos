@@ -1,1 +1,1 @@
-![Killswitch Engage(artist.jpeg)]
+![Killswitch Engage](artist.jpeg)

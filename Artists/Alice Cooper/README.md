@@ -1,1 +1,1 @@
-![Alice Cooper(artist.jpeg)]
+![Alice Cooper](artist.jpeg)

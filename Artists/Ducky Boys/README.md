@@ -1,1 +1,1 @@
-![Ducky Boys(artist.jpeg)]
+![Ducky Boys](artist.jpeg)

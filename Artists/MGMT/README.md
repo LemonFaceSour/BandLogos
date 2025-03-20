@@ -1,1 +1,1 @@
-![MGMT(artist.jpeg)]
+![MGMT](artist.jpeg)

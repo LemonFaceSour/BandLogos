@@ -1,1 +1,1 @@
-![The Sounds(artist.jpeg)]
+![The Sounds](artist.jpeg)

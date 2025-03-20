@@ -1,1 +1,1 @@
-![Pepper(artist.jpeg)]
+![Pepper](artist.jpeg)

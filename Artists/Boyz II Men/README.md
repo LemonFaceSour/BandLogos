@@ -1,1 +1,1 @@
-![Boyz II Men(artist.jpeg)]
+![Boyz II Men](artist.jpeg)

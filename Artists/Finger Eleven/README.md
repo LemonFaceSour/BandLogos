@@ -1,1 +1,1 @@
-![Finger Eleven(artist.jpeg)]
+![Finger Eleven](artist.jpeg)

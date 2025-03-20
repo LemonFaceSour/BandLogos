@@ -1,1 +1,1 @@
-![Nazareth(artist.jpeg)]
+![Nazareth](artist.jpeg)

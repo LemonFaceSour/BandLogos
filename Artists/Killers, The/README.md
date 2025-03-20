@@ -1,1 +1,1 @@
-![Killers, The(artist.jpeg)]
+![Killers, The](artist.jpeg)

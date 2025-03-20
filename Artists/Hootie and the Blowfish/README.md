@@ -1,1 +1,1 @@
-![Hootie and the Blowfish(artist.jpeg)]
+![Hootie and the Blowfish](artist.jpeg)

@@ -1,1 +1,1 @@
-![Lostprophets(artist.jpeg)]
+![Lostprophets](artist.jpeg)

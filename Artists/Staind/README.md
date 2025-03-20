@@ -1,1 +1,1 @@
-![Staind(artist.jpeg)]
+![Staind](artist.jpeg)

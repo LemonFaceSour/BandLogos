@@ -1,1 +1,1 @@
-![The Clash(artist.jpeg)]
+![The Clash](artist.jpeg)

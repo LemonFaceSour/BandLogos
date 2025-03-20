@@ -1,1 +1,1 @@
-![Goldfinger(artist.jpeg)]
+![Goldfinger](artist.jpeg)

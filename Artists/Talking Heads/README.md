@@ -1,1 +1,1 @@
-![Talking Heads(artist.jpeg)]
+![Talking Heads](artist.jpeg)

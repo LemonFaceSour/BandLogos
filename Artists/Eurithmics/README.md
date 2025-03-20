@@ -1,1 +1,1 @@
-![Eurithmics(artist.jpeg)]
+![Eurithmics](artist.jpeg)

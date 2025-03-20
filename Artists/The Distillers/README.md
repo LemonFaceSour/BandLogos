@@ -1,1 +1,1 @@
-![The Distillers(artist.jpeg)]
+![The Distillers](artist.jpeg)

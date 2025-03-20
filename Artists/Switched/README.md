@@ -1,1 +1,1 @@
-![Switched(artist.jpeg)]
+![Switched](artist.jpeg)

@@ -1,1 +1,1 @@
-![Dragonforce(artist.jpeg)]
+![Dragonforce](artist.jpeg)

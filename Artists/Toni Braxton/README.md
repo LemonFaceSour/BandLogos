@@ -1,1 +1,1 @@
-![Toni Braxton(artist.jpeg)]
+![Toni Braxton](artist.jpeg)

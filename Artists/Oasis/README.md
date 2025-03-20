@@ -1,1 +1,1 @@
-![Oasis(artist.jpeg)]
+![Oasis](artist.jpeg)

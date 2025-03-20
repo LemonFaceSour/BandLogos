@@ -1,1 +1,1 @@
-![Garfunkel and Oates(artist.jpeg)]
+![Garfunkel and Oates](artist.jpeg)

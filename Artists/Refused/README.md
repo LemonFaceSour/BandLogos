@@ -1,1 +1,1 @@
-![Refused(artist.jpeg)]
+![Refused](artist.jpeg)

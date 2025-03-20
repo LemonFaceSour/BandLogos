@@ -1,1 +1,1 @@
-![Weezer(artist.jpeg)]
+![Weezer](artist.jpeg)

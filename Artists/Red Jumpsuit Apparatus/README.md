@@ -1,1 +1,1 @@
-![Red Jumpsuit Apparatus(artist.jpeg)]
+![Red Jumpsuit Apparatus](artist.jpeg)

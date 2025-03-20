@@ -1,1 +1,1 @@
-![Jennifer Lopez(artist.jpeg)]
+![Jennifer Lopez](artist.jpeg)

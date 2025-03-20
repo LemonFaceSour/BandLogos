@@ -1,1 +1,1 @@
-![Outkast(artist.jpeg)]
+![Outkast](artist.jpeg)

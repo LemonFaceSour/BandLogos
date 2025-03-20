@@ -1,1 +1,1 @@
-![The Birthday Massacre(artist.jpeg)]
+![The Birthday Massacre](artist.jpeg)

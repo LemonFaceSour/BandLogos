@@ -1,1 +1,1 @@
-![Sting(artist.jpeg)]
+![Sting](artist.jpeg)

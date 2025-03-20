@@ -1,1 +1,1 @@
-![Naughty By Nature(artist.jpeg)]
+![Naughty By Nature](artist.jpeg)

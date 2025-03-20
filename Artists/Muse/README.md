@@ -1,1 +1,1 @@
-![Muse(artist.jpeg)]
+![Muse](artist.jpeg)

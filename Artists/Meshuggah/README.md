@@ -1,1 +1,1 @@
-![Meshuggah(artist.jpeg)]
+![Meshuggah](artist.jpeg)

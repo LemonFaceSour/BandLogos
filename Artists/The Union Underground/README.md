@@ -1,1 +1,1 @@
-![The Union Underground(artist.jpeg)]
+![The Union Underground](artist.jpeg)

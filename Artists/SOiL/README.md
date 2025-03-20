@@ -1,1 +1,1 @@
-![SOiL(artist.jpeg)]
+![SOiL](artist.jpeg)

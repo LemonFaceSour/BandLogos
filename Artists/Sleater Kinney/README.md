@@ -1,1 +1,1 @@
-![Sleater Kinney(artist.jpeg)]
+![Sleater Kinney](artist.jpeg)

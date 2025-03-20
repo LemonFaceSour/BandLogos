@@ -1,1 +1,1 @@
-![Soul Asylum(artist.jpeg)]
+![Soul Asylum](artist.jpeg)

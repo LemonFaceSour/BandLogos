@@ -1,1 +1,1 @@
-![R.E.M.(artist.jpeg)]
+![R.E.M.](artist.jpeg)

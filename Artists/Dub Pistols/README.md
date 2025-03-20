@@ -1,1 +1,1 @@
-![Dub Pistols(artist.jpeg)]
+![Dub Pistols](artist.jpeg)

@@ -1,1 +1,1 @@
-![Neurotica(artist.jpeg)]
+![Neurotica](artist.jpeg)

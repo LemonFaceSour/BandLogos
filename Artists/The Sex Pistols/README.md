@@ -1,1 +1,1 @@
-![The Sex Pistols(artist.jpeg)]
+![The Sex Pistols](artist.jpeg)

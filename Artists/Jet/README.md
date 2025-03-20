@@ -1,1 +1,1 @@
-![Jet(artist.jpeg)]
+![Jet](artist.jpeg)

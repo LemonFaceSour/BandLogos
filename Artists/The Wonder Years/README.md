@@ -1,1 +1,1 @@
-![The Wonder Years(artist.jpeg)]
+![The Wonder Years](artist.jpeg)

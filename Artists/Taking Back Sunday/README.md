@@ -1,1 +1,1 @@
-![Taking Back Sunday(artist.jpeg)]
+![Taking Back Sunday](artist.jpeg)

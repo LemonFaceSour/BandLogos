@@ -1,1 +1,1 @@
-![Butthole Surfers(artist.jpeg)]
+![Butthole Surfers](artist.jpeg)

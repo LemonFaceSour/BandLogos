@@ -1,1 +1,1 @@
-![We Were Promised Jetpacks(artist.jpeg)]
+![We Were Promised Jetpacks](artist.jpeg)

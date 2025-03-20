@@ -1,1 +1,1 @@
-![Eyes Set to Kill(artist.jpeg)]
+![Eyes Set to Kill](artist.jpeg)

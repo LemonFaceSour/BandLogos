@@ -1,1 +1,1 @@
-![LFO(artist.jpeg)]
+![LFO](artist.jpeg)

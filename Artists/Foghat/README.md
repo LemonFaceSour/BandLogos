@@ -1,1 +1,1 @@
-![Foghat(artist.jpeg)]
+![Foghat](artist.jpeg)

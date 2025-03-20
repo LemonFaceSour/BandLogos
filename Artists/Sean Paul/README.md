@@ -1,1 +1,1 @@
-![Sean Paul(artist.jpeg)]
+![Sean Paul](artist.jpeg)

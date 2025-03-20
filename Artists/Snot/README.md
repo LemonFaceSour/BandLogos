@@ -1,1 +1,1 @@
-![Snot(artist.jpeg)]
+![Snot](artist.jpeg)

@@ -1,1 +1,1 @@
-![Murderdolls(artist.jpeg)]
+![Murderdolls](artist.jpeg)

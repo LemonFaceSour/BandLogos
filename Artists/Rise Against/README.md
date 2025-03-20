@@ -1,1 +1,1 @@
-![Rise Against(artist.jpeg)]
+![Rise Against](artist.jpeg)

@@ -1,1 +1,1 @@
-![Lawnmowerdeth(artist.jpeg)]
+![Lawnmowerdeth](artist.jpeg)

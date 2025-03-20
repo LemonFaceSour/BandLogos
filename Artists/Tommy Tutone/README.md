@@ -1,1 +1,1 @@
-![Tommy Tutone(artist.jpeg)]
+![Tommy Tutone](artist.jpeg)

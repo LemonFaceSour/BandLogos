@@ -1,1 +1,1 @@
-![Journey(artist.jpeg)]
+![Journey](artist.jpeg)

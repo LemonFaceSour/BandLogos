@@ -1,1 +1,1 @@
-![Dune Rats(artist.jpeg)]
+![Dune Rats](artist.jpeg)

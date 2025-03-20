@@ -1,1 +1,1 @@
-![Superjoint Ritual(artist.jpeg)]
+![Superjoint Ritual](artist.jpeg)

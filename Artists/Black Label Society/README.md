@@ -1,1 +1,1 @@
-![Black Label Society(artist.jpeg)]
+![Black Label Society](artist.jpeg)

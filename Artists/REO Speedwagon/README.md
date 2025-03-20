@@ -1,1 +1,1 @@
-![REO Speedwagon(artist.jpeg)]
+![REO Speedwagon](artist.jpeg)

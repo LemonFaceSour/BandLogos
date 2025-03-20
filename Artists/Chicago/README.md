@@ -1,1 +1,1 @@
-![Chicago(artist.jpeg)]
+![Chicago](artist.jpeg)

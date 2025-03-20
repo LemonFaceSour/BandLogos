@@ -1,1 +1,1 @@
-![30 Seconds to Mars(artist.jpeg)]
+![30 Seconds to Mars](artist.jpeg)

@@ -1,1 +1,1 @@
-![Blues Traveler(artist.jpeg)]
+![Blues Traveler](artist.jpeg)

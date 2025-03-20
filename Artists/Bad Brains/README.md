@@ -1,1 +1,1 @@
-![Bad Brains(artist.jpeg)]
+![Bad Brains](artist.jpeg)

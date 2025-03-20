@@ -1,1 +1,1 @@
-![Dido(artist.jpeg)]
+![Dido](artist.jpeg)

@@ -1,1 +1,1 @@
-![Ub40(artist.jpeg)]
+![Ub40](artist.jpeg)

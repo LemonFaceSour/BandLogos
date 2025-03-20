@@ -1,1 +1,1 @@
-![Arrested Development(artist.jpeg)]
+![Arrested Development](artist.jpeg)

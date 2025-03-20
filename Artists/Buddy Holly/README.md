@@ -1,1 +1,1 @@
-![Buddy Holly(artist.jpeg)]
+![Buddy Holly](artist.jpeg)

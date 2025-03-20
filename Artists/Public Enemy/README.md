@@ -1,1 +1,1 @@
-![Public Enemy(artist.jpeg)]
+![Public Enemy](artist.jpeg)

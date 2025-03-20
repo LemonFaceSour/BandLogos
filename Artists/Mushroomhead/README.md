@@ -1,1 +1,1 @@
-![Mushroomhead(artist.jpeg)]
+![Mushroomhead](artist.jpeg)

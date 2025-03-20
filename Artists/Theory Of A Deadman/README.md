@@ -1,1 +1,1 @@
-![Theory Of A Deadman(artist.jpeg)]
+![Theory Of A Deadman](artist.jpeg)

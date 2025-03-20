@@ -1,1 +1,1 @@
-![Petrol Girls(artist.jpeg)]
+![Petrol Girls](artist.jpeg)

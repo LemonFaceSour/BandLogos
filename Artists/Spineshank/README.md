@@ -1,1 +1,1 @@
-![Spineshank(artist.jpeg)]
+![Spineshank](artist.jpeg)

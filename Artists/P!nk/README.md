@@ -1,1 +1,1 @@
-![P!nk(artist.jpeg)]
+![P!nk](artist.jpeg)

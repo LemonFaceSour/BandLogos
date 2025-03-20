@@ -1,1 +1,1 @@
-![Christina Aguilera(artist.jpeg)]
+![Christina Aguilera](artist.jpeg)

@@ -1,1 +1,1 @@
-![Winger(artist.jpeg)]
+![Winger](artist.jpeg)

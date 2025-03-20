@@ -1,1 +1,1 @@
-![Stabbing Westward(artist.jpeg)]
+![Stabbing Westward](artist.jpeg)

@@ -1,1 +1,1 @@
-![Godsmack(artist.jpeg)]
+![Godsmack](artist.jpeg)

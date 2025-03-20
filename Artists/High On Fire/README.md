@@ -1,1 +1,1 @@
-![High On Fire(artist.jpeg)]
+![High On Fire](artist.jpeg)

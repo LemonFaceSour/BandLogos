@@ -1,1 +1,1 @@
-![Edwin McCain(artist.jpeg)]
+![Edwin McCain](artist.jpeg)

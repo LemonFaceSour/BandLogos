@@ -1,1 +1,1 @@
-![Disturbed(artist.jpeg)]
+![Disturbed](artist.jpeg)

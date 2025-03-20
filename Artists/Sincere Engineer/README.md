@@ -1,1 +1,1 @@
-![Sincere Engineer(artist.jpeg)]
+![Sincere Engineer](artist.jpeg)

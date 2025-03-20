@@ -1,1 +1,1 @@
-![The Midnight(artist.jpeg)]
+![The Midnight](artist.jpeg)

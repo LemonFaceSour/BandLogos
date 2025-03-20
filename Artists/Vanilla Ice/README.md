@@ -1,1 +1,1 @@
-![Vanilla Ice(artist.jpeg)]
+![Vanilla Ice](artist.jpeg)

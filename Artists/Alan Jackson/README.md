@@ -1,1 +1,1 @@
-![Alan Jackson(artist.jpeg)]
+![Alan Jackson](artist.jpeg)

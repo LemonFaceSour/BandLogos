@@ -1,1 +1,1 @@
-![Sentenced(artist.jpeg)]
+![Sentenced](artist.jpeg)

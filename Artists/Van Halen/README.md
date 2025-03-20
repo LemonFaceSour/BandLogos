@@ -1,1 +1,1 @@
-![Van Halen(artist.jpeg)]
+![Van Halen](artist.jpeg)

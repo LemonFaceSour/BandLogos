@@ -1,1 +1,1 @@
-![Prozzak(artist.jpeg)]
+![Prozzak](artist.jpeg)

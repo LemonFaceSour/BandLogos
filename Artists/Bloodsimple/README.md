@@ -1,1 +1,1 @@
-![Bloodsimple(artist.jpeg)]
+![Bloodsimple](artist.jpeg)

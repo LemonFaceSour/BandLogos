@@ -1,1 +1,1 @@
-![Jeff Buckley(artist.jpeg)]
+![Jeff Buckley](artist.jpeg)

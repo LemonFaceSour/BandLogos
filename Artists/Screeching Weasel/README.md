@@ -1,1 +1,1 @@
-![Screeching Weasel(artist.jpeg)]
+![Screeching Weasel](artist.jpeg)

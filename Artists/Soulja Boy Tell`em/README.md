@@ -1,1 +1,1 @@
-![Soulja Boy Tell`em(artist.jpeg)]
+![Soulja Boy Tell`em](artist.jpeg)

@@ -1,1 +1,1 @@
-![Stray Cats(artist.jpeg)]
+![Stray Cats](artist.jpeg)

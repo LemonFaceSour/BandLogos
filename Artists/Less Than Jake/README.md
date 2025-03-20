@@ -1,1 +1,1 @@
-![Less Than Jake(artist.jpeg)]
+![Less Than Jake](artist.jpeg)

@@ -1,1 +1,1 @@
-![Pearl Jam(artist.jpeg)]
+![Pearl Jam](artist.jpeg)

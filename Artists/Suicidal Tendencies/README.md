@@ -1,1 +1,1 @@
-![Suicidal Tendencies(artist.jpeg)]
+![Suicidal Tendencies](artist.jpeg)

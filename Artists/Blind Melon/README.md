@@ -1,1 +1,1 @@
-![Blind Melon(artist.jpeg)]
+![Blind Melon](artist.jpeg)

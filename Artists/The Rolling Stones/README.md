@@ -1,1 +1,1 @@
-![The Rolling Stones(artist.jpeg)]
+![The Rolling Stones](artist.jpeg)

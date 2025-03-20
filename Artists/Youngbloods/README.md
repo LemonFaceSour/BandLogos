@@ -1,1 +1,1 @@
-![Youngbloods(artist.jpeg)]
+![Youngbloods](artist.jpeg)

@@ -1,1 +1,1 @@
-![Gorillaz(artist.jpeg)]
+![Gorillaz](artist.jpeg)

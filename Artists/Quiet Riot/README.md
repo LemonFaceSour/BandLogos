@@ -1,1 +1,1 @@
-![Quiet Riot(artist.jpeg)]
+![Quiet Riot](artist.jpeg)

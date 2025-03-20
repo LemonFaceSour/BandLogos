@@ -1,1 +1,1 @@
-![Crossbreed(artist.jpeg)]
+![Crossbreed](artist.jpeg)

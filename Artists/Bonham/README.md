@@ -1,1 +1,1 @@
-![Bonham(artist.jpeg)]
+![Bonham](artist.jpeg)

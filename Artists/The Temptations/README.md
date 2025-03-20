@@ -1,1 +1,1 @@
-![The Temptations(artist.jpeg)]
+![The Temptations](artist.jpeg)

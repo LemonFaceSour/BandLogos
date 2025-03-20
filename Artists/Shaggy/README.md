@@ -1,1 +1,1 @@
-![Shaggy(artist.jpeg)]
+![Shaggy](artist.jpeg)

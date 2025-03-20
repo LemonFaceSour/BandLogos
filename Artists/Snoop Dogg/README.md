@@ -1,1 +1,1 @@
-![Snoop Dogg(artist.jpeg)]
+![Snoop Dogg](artist.jpeg)

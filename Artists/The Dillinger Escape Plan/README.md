@@ -1,1 +1,1 @@
-![The Dillinger Escape Plan(artist.jpeg)]
+![The Dillinger Escape Plan](artist.jpeg)

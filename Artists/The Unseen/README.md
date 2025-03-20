@@ -1,1 +1,1 @@
-![The Unseen(artist.jpeg)]
+![The Unseen](artist.jpeg)

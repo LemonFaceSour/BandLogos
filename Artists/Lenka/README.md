@@ -1,1 +1,1 @@
-![Lenka(artist.jpeg)]
+![Lenka](artist.jpeg)

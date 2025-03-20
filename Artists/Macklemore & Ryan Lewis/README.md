@@ -1,1 +1,1 @@
-![Macklemore & Ryan Lewis(artist.jpeg)]
+![Macklemore & Ryan Lewis](artist.jpeg)

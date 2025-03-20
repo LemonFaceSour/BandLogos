@@ -1,1 +1,1 @@
-![Tantric(artist.jpeg)]
+![Tantric](artist.jpeg)

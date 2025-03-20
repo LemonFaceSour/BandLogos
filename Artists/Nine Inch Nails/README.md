@@ -1,1 +1,1 @@
-![Nine Inch Nails(artist.jpeg)]
+![Nine Inch Nails](artist.jpeg)

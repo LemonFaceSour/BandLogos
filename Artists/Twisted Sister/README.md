@@ -1,1 +1,1 @@
-![Twisted Sister(artist.jpeg)]
+![Twisted Sister](artist.jpeg)

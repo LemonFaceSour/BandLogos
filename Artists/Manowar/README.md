@@ -1,1 +1,1 @@
-![Manowar(artist.jpeg)]
+![Manowar](artist.jpeg)

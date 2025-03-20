@@ -1,1 +1,1 @@
-![Queensrÿche(artist.jpeg)]
+![Queensrÿche](artist.jpeg)

@@ -1,1 +1,1 @@
-![CKY(artist.jpeg)]
+![CKY](artist.jpeg)

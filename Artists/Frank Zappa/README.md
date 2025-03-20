@@ -1,1 +1,1 @@
-![Frank Zappa(artist.jpeg)]
+![Frank Zappa](artist.jpeg)

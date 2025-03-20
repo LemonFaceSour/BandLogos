@@ -1,1 +1,1 @@
-![The Darkness(artist.jpeg)]
+![The Darkness](artist.jpeg)

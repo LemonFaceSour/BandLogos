@@ -1,1 +1,1 @@
-![Guns N' Roses(artist.jpeg)]
+![Guns N' Roses](artist.jpeg)

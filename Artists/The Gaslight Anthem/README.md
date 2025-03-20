@@ -1,1 +1,1 @@
-![The Gaslight Anthem(artist.jpeg)]
+![The Gaslight Anthem](artist.jpeg)

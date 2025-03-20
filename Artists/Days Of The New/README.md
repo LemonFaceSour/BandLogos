@@ -1,1 +1,1 @@
-![Days Of The New(artist.jpeg)]
+![Days Of The New](artist.jpeg)

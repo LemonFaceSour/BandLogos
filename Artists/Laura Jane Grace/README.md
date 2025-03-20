@@ -1,1 +1,1 @@
-![Laura Jane Grace(artist.jpeg)]
+![Laura Jane Grace](artist.jpeg)

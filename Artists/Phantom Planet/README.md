@@ -1,1 +1,1 @@
-![Phantom Planet(artist.jpeg)]
+![Phantom Planet](artist.jpeg)

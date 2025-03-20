@@ -1,1 +1,1 @@
-![Pennywise(artist.jpeg)]
+![Pennywise](artist.jpeg)

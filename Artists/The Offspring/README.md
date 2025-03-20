@@ -1,1 +1,1 @@
-![The Offspring(artist.jpeg)]
+![The Offspring](artist.jpeg)

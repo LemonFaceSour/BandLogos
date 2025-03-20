@@ -1,1 +1,1 @@
-![Aerosmith(artist.jpeg)]
+![Aerosmith](artist.jpeg)

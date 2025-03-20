@@ -1,1 +1,1 @@
-![The Grateful Dead(artist.jpeg)]
+![The Grateful Dead](artist.jpeg)

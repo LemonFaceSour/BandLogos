@@ -1,1 +1,1 @@
-![Jimi Hendrix(artist.jpeg)]
+![Jimi Hendrix](artist.jpeg)

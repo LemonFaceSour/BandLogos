@@ -1,1 +1,1 @@
-![Trisha Yearwood(artist.jpeg)]
+![Trisha Yearwood](artist.jpeg)

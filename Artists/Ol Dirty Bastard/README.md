@@ -1,1 +1,1 @@
-![Ol Dirty Bastard(artist.jpeg)]
+![Ol Dirty Bastard](artist.jpeg)

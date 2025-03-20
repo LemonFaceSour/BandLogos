@@ -1,1 +1,1 @@
-![Hidden in Plain View(artist.jpeg)]
+![Hidden in Plain View](artist.jpeg)

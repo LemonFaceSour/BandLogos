@@ -1,1 +1,1 @@
-![Britney Spears(artist.jpeg)]
+![Britney Spears](artist.jpeg)

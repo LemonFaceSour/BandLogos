@@ -1,1 +1,1 @@
-![Montell Jordan(artist.jpeg)]
+![Montell Jordan](artist.jpeg)

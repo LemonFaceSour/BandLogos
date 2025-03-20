@@ -1,1 +1,1 @@
-![Bob Dylan(artist.jpeg)]
+![Bob Dylan](artist.jpeg)

@@ -1,1 +1,1 @@
-![Nine Days(artist.jpeg)]
+![Nine Days](artist.jpeg)

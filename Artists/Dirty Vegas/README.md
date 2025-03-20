@@ -1,1 +1,1 @@
-![Dirty Vegas(artist.jpeg)]
+![Dirty Vegas](artist.jpeg)

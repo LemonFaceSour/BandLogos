@@ -1,1 +1,1 @@
-![Lover Boy(artist.jpeg)]
+![Lover Boy](artist.jpeg)

@@ -1,1 +1,1 @@
-![50 Cent(artist.jpeg)]
+![50 Cent](artist.jpeg)

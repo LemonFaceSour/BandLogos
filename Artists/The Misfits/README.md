@@ -1,1 +1,1 @@
-![The Misfits(artist.jpeg)]
+![The Misfits](artist.jpeg)

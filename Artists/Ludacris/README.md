@@ -1,1 +1,1 @@
-![Ludacris(artist.jpeg)]
+![Ludacris](artist.jpeg)

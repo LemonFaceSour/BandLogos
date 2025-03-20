@@ -1,1 +1,1 @@
-![Florent Pagny(artist.jpeg)]
+![Florent Pagny](artist.jpeg)

@@ -1,1 +1,1 @@
-![Sabrina Carpenter(artist.jpeg)]
+![Sabrina Carpenter](artist.jpeg)

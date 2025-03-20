@@ -1,1 +1,1 @@
-![Elton John(artist.jpeg)]
+![Elton John](artist.jpeg)

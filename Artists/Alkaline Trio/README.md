@@ -1,1 +1,1 @@
-![Alkaline Trio(artist.jpeg)]
+![Alkaline Trio](artist.jpeg)

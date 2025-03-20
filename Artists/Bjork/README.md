@@ -1,1 +1,1 @@
-![Bjork(artist.jpeg)]
+![Bjork](artist.jpeg)

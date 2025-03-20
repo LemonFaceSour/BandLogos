@@ -1,1 +1,1 @@
-![Trustcompany(artist.jpeg)]
+![Trustcompany](artist.jpeg)

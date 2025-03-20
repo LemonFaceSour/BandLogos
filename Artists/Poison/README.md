@@ -1,1 +1,1 @@
-![Poison(artist.jpeg)]
+![Poison](artist.jpeg)

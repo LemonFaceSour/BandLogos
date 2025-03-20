@@ -1,1 +1,1 @@
-![Bachman–Turner Overdrive(artist.jpeg)]
+![Bachman–Turner Overdrive](artist.jpeg)

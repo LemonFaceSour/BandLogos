@@ -1,1 +1,1 @@
-![M(artist.jpeg)]
+![M](artist.jpeg)

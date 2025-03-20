@@ -1,1 +1,1 @@
-![Katrina and the Waves(artist.jpeg)]
+![Katrina and the Waves](artist.jpeg)

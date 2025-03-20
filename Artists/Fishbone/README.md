@@ -1,1 +1,1 @@
-![Fishbone(artist.jpeg)]
+![Fishbone](artist.jpeg)

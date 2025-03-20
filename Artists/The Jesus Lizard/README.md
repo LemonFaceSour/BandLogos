@@ -1,1 +1,1 @@
-![The Jesus Lizard(artist.jpeg)]
+![The Jesus Lizard](artist.jpeg)

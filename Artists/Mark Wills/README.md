@@ -1,1 +1,1 @@
-![Mark Wills(artist.jpeg)]
+![Mark Wills](artist.jpeg)

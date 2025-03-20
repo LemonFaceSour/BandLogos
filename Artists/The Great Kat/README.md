@@ -1,1 +1,1 @@
-![The Great Kat(artist.jpeg)]
+![The Great Kat](artist.jpeg)

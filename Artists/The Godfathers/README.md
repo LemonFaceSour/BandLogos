@@ -1,1 +1,1 @@
-![The Godfathers(artist.jpeg)]
+![The Godfathers](artist.jpeg)

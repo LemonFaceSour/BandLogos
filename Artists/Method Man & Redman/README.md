@@ -1,1 +1,1 @@
-![Method Man & Redman(artist.jpeg)]
+![Method Man & Redman](artist.jpeg)

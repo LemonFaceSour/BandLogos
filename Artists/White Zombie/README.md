@@ -1,1 +1,1 @@
-![White Zombie(artist.jpeg)]
+![White Zombie](artist.jpeg)

@@ -1,1 +1,1 @@
-![Drug Church(artist.jpeg)]
+![Drug Church](artist.jpeg)

@@ -1,1 +1,1 @@
-![Dr. Dre(artist.jpeg)]
+![Dr. Dre](artist.jpeg)

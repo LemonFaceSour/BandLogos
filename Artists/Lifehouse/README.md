@@ -1,1 +1,1 @@
-![Lifehouse(artist.jpeg)]
+![Lifehouse](artist.jpeg)

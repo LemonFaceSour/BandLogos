@@ -1,1 +1,1 @@
-![Godhead(artist.jpeg)]
+![Godhead](artist.jpeg)

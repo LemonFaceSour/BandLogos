@@ -1,1 +1,1 @@
-![Tech N9ne(artist.jpeg)]
+![Tech N9ne](artist.jpeg)

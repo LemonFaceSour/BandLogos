@@ -1,1 +1,1 @@
-![Waylon Jennings(artist.jpeg)]
+![Waylon Jennings](artist.jpeg)

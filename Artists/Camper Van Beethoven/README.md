@@ -1,1 +1,1 @@
-![Camper Van Beethoven(artist.jpeg)]
+![Camper Van Beethoven](artist.jpeg)

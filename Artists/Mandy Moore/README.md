@@ -1,1 +1,1 @@
-![Mandy Moore(artist.jpeg)]
+![Mandy Moore](artist.jpeg)

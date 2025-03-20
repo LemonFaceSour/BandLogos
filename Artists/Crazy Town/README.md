@@ -1,1 +1,1 @@
-![Crazy Town(artist.jpeg)]
+![Crazy Town](artist.jpeg)

@@ -1,1 +1,1 @@
-![Meredith Brooks(artist.jpeg)]
+![Meredith Brooks](artist.jpeg)

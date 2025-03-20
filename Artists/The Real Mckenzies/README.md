@@ -1,1 +1,1 @@
-![The Real Mckenzies(artist.jpeg)]
+![The Real Mckenzies](artist.jpeg)

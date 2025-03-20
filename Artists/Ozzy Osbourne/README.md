@@ -1,1 +1,1 @@
-![Ozzy Osbourne(artist.jpeg)]
+![Ozzy Osbourne](artist.jpeg)

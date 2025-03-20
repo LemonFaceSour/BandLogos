@@ -1,1 +1,1 @@
-![Dropkick Murphys(artist.jpeg)]
+![Dropkick Murphys](artist.jpeg)

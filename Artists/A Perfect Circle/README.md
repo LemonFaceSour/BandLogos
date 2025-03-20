@@ -1,1 +1,1 @@
-![A Perfect Circle(artist.jpeg)]
+![A Perfect Circle](artist.jpeg)

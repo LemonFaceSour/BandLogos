@@ -1,1 +1,1 @@
-![Escape the Fate(artist.jpeg)]
+![Escape the Fate](artist.jpeg)

@@ -1,1 +1,1 @@
-![Pat Benetar(artist.jpeg)]
+![Pat Benetar](artist.jpeg)

@@ -1,1 +1,1 @@
-![Casualties(artist.jpeg)]
+![Casualties](artist.jpeg)

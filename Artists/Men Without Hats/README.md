@@ -1,1 +1,1 @@
-![Men Without Hats(artist.jpeg)]
+![Men Without Hats](artist.jpeg)

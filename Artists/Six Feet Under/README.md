@@ -1,1 +1,1 @@
-![Six Feet Under(artist.jpeg)]
+![Six Feet Under](artist.jpeg)

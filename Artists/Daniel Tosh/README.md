@@ -1,1 +1,1 @@
-![Daniel Tosh(artist.jpeg)]
+![Daniel Tosh](artist.jpeg)

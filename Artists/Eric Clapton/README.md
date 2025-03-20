@@ -1,1 +1,1 @@
-![Eric Clapton(artist.jpeg)]
+![Eric Clapton](artist.jpeg)

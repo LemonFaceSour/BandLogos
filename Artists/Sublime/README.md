@@ -1,1 +1,1 @@
-![Sublime(artist.jpeg)]
+![Sublime](artist.jpeg)

@@ -1,1 +1,1 @@
-![Macy Gray(artist.jpeg)]
+![Macy Gray](artist.jpeg)

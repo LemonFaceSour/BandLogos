@@ -1,1 +1,1 @@
-![Duran Duran(artist.jpeg)]
+![Duran Duran](artist.jpeg)

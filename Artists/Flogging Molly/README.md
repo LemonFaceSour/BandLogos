@@ -1,1 +1,1 @@
-![Flogging Molly(artist.jpeg)]
+![Flogging Molly](artist.jpeg)

@@ -1,1 +1,1 @@
-![Black Light Burns(artist.jpeg)]
+![Black Light Burns](artist.jpeg)

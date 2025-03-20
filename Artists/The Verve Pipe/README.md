@@ -1,1 +1,1 @@
-![The Verve Pipe(artist.jpeg)]
+![The Verve Pipe](artist.jpeg)

@@ -1,1 +1,1 @@
-![Black Tambourine(artist.jpeg)]
+![Black Tambourine](artist.jpeg)

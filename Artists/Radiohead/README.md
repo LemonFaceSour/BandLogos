@@ -1,1 +1,1 @@
-![Radiohead(artist.jpeg)]
+![Radiohead](artist.jpeg)

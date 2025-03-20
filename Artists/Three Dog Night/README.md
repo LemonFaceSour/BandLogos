@@ -1,1 +1,1 @@
-![Three Dog Night(artist.jpeg)]
+![Three Dog Night](artist.jpeg)

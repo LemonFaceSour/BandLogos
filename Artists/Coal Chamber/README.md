@@ -1,1 +1,1 @@
-![Coal Chamber(artist.jpeg)]
+![Coal Chamber](artist.jpeg)

@@ -1,1 +1,1 @@
-![Del the Funky Homosapien(artist.jpeg)]
+![Del the Funky Homosapien](artist.jpeg)

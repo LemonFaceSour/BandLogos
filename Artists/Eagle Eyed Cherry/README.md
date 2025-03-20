@@ -1,1 +1,1 @@
-![Eagle Eyed Cherry(artist.jpeg)]
+![Eagle Eyed Cherry](artist.jpeg)

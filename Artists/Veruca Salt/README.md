@@ -1,1 +1,1 @@
-![Veruca Salt(artist.jpeg)]
+![Veruca Salt](artist.jpeg)

@@ -1,1 +1,1 @@
-![Lacuna Coil(artist.jpeg)]
+![Lacuna Coil](artist.jpeg)

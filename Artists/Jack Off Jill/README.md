@@ -1,1 +1,1 @@
-![Jack Off Jill(artist.jpeg)]
+![Jack Off Jill](artist.jpeg)

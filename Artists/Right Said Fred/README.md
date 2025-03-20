@@ -1,1 +1,1 @@
-![Right Said Fred(artist.jpeg)]
+![Right Said Fred](artist.jpeg)

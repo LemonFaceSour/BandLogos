@@ -1,1 +1,1 @@
-![Terrorgruppe(artist.jpeg)]
+![Terrorgruppe](artist.jpeg)

@@ -1,1 +1,1 @@
-![Judas Priest(artist.jpeg)]
+![Judas Priest](artist.jpeg)

@@ -1,1 +1,1 @@
-![Thrice(artist.jpeg)]
+![Thrice](artist.jpeg)

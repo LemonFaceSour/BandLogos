@@ -1,1 +1,1 @@
-![Danger Danger(artist.jpeg)]
+![Danger Danger](artist.jpeg)

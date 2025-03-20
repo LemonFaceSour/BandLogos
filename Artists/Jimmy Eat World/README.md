@@ -1,1 +1,1 @@
-![Jimmy Eat World(artist.jpeg)]
+![Jimmy Eat World](artist.jpeg)

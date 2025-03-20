@@ -1,1 +1,1 @@
-![Bob Marley & The Wailers;(artist.jpeg)]
+![Bob Marley & The Wailers;](artist.jpeg)

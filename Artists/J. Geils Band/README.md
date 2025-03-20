@@ -1,1 +1,1 @@
-![J. Geils Band(artist.jpeg)]
+![J. Geils Band](artist.jpeg)

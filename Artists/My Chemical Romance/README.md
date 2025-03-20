@@ -1,1 +1,1 @@
-![My Chemical Romance(artist.jpeg)]
+![My Chemical Romance](artist.jpeg)

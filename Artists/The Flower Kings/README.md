@@ -1,1 +1,1 @@
-![The Flower Kings(artist.jpeg)]
+![The Flower Kings](artist.jpeg)

@@ -1,1 +1,1 @@
-![DragPipe(artist.jpeg)]
+![DragPipe](artist.jpeg)

@@ -1,1 +1,1 @@
-![3 Inches Of Blood(artist.jpeg)]
+![3 Inches Of Blood](artist.jpeg)

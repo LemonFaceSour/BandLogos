@@ -1,1 +1,1 @@
-![The Mighty Mighty Bosstones(artist.jpeg)]
+![The Mighty Mighty Bosstones](artist.jpeg)

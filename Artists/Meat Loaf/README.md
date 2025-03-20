@@ -1,1 +1,1 @@
-![Meat Loaf(artist.jpeg)]
+![Meat Loaf](artist.jpeg)

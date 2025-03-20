@@ -1,1 +1,1 @@
-![The Who(artist.jpeg)]
+![The Who](artist.jpeg)

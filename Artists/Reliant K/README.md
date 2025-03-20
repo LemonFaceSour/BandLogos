@@ -1,1 +1,1 @@
-![Reliant K(artist.jpeg)]
+![Reliant K](artist.jpeg)

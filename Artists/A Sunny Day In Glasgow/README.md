@@ -1,1 +1,1 @@
-![A Sunny Day In Glasgow(artist.jpeg)]
+![A Sunny Day In Glasgow](artist.jpeg)

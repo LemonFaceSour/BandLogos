@@ -1,1 +1,1 @@
-![Slipknot(artist.jpeg)]
+![Slipknot](artist.jpeg)

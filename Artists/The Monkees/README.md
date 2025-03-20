@@ -1,1 +1,1 @@
-![The Monkees(artist.jpeg)]
+![The Monkees](artist.jpeg)

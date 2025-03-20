@@ -1,1 +1,1 @@
-![88 finger Louie(artist.jpeg)]
+![88 finger Louie](artist.jpeg)

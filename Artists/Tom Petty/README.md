@@ -1,1 +1,1 @@
-![Tom Petty(artist.jpeg)]
+![Tom Petty](artist.jpeg)

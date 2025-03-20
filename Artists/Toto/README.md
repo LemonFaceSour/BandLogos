@@ -1,1 +1,1 @@
-![Toto(artist.jpeg)]
+![Toto](artist.jpeg)

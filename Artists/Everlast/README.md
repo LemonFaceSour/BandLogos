@@ -1,1 +1,1 @@
-![Everlast(artist.jpeg)]
+![Everlast](artist.jpeg)

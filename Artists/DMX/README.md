@@ -1,1 +1,1 @@
-![DMX(artist.jpeg)]
+![DMX](artist.jpeg)

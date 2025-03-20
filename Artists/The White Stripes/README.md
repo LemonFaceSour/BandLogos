@@ -1,1 +1,1 @@
-![The White Stripes(artist.jpeg)]
+![The White Stripes](artist.jpeg)

@@ -1,1 +1,1 @@
-![Hoobastank(artist.jpeg)]
+![Hoobastank](artist.jpeg)

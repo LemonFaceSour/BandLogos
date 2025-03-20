@@ -1,1 +1,1 @@
-![Rick Astley(artist.jpeg)]
+![Rick Astley](artist.jpeg)

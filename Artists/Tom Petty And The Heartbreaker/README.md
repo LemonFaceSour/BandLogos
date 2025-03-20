@@ -1,1 +1,1 @@
-![Tom Petty And The Heartbreaker(artist.jpeg)]
+![Tom Petty And The Heartbreaker](artist.jpeg)

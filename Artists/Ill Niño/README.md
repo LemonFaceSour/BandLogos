@@ -1,1 +1,1 @@
-![Ill Niño(artist.jpeg)]
+![Ill Niño](artist.jpeg)

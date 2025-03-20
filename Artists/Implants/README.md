@@ -1,1 +1,1 @@
-![Implants(artist.jpeg)]
+![Implants](artist.jpeg)

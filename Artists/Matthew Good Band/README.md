@@ -1,1 +1,1 @@
-![Matthew Good Band(artist.jpeg)]
+![Matthew Good Band](artist.jpeg)

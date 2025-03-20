@@ -1,1 +1,1 @@
-![Blink 182(artist.jpeg)]
+![Blink 182](artist.jpeg)

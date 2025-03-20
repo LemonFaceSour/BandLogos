@@ -1,1 +1,1 @@
-![Four Year Strong(artist.jpeg)]
+![Four Year Strong](artist.jpeg)

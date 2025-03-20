@@ -1,1 +1,1 @@
-![Cage The Elephant(artist.jpeg)]
+![Cage The Elephant](artist.jpeg)

@@ -1,1 +1,1 @@
-![Trik Turner(artist.jpeg)]
+![Trik Turner](artist.jpeg)

@@ -1,1 +1,1 @@
-![George Strait(artist.jpeg)]
+![George Strait](artist.jpeg)

@@ -1,1 +1,1 @@
-![Led Zepplin(artist.jpeg)]
+![Led Zepplin](artist.jpeg)

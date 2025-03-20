@@ -1,1 +1,1 @@
-![Chevelle(artist.jpeg)]
+![Chevelle](artist.jpeg)

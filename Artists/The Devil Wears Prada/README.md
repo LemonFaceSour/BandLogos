@@ -1,1 +1,1 @@
-![The Devil Wears Prada(artist.jpeg)]
+![The Devil Wears Prada](artist.jpeg)

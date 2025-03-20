@@ -1,1 +1,1 @@
-![LMFAO(artist.jpeg)]
+![LMFAO](artist.jpeg)

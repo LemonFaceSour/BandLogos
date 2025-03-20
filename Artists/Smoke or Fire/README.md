@@ -1,1 +1,1 @@
-![Smoke or Fire(artist.jpeg)]
+![Smoke or Fire](artist.jpeg)

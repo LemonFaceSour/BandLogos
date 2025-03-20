@@ -1,1 +1,1 @@
-![Umphrey's McGee(artist.jpeg)]
+![Umphrey's McGee](artist.jpeg)

@@ -1,1 +1,1 @@
-![Heart(artist.jpeg)]
+![Heart](artist.jpeg)

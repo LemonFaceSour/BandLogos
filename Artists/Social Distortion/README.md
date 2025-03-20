@@ -1,1 +1,1 @@
-![Social Distortion(artist.jpeg)]
+![Social Distortion](artist.jpeg)

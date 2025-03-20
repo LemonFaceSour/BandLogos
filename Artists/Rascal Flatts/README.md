@@ -1,1 +1,1 @@
-![Rascal Flatts(artist.jpeg)]
+![Rascal Flatts](artist.jpeg)

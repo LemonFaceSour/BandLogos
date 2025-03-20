@@ -1,1 +1,1 @@
-![The Bruisers(artist.jpeg)]
+![The Bruisers](artist.jpeg)

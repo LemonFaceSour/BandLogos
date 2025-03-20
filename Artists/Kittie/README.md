@@ -1,1 +1,1 @@
-![Kittie(artist.jpeg)]
+![Kittie](artist.jpeg)

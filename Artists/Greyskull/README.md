@@ -1,1 +1,1 @@
-![Greyskull(artist.jpeg)]
+![Greyskull](artist.jpeg)

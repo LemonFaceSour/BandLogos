@@ -1,1 +1,1 @@
-![Exilia(artist.jpeg)]
+![Exilia](artist.jpeg)

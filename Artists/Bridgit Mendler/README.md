@@ -1,1 +1,1 @@
-![Bridgit Mendler(artist.jpeg)]
+![Bridgit Mendler](artist.jpeg)

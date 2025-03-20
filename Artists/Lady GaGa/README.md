@@ -1,1 +1,1 @@
-![Lady GaGa(artist.jpeg)]
+![Lady GaGa](artist.jpeg)

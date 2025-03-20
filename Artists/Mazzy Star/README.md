@@ -1,1 +1,1 @@
-![Mazzy Star(artist.jpeg)]
+![Mazzy Star](artist.jpeg)

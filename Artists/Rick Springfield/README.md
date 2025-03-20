@@ -1,1 +1,1 @@
-![Rick Springfield(artist.jpeg)]
+![Rick Springfield](artist.jpeg)

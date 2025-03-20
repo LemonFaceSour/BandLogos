@@ -1,1 +1,1 @@
-![Ace of Base(artist.jpeg)]
+![Ace of Base](artist.jpeg)

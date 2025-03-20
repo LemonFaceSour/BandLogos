@@ -1,1 +1,1 @@
-![Air Supply(artist.jpeg)]
+![Air Supply](artist.jpeg)

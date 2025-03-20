@@ -1,1 +1,1 @@
-![98 Degrees(artist.jpeg)]
+![98 Degrees](artist.jpeg)

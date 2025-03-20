@@ -1,1 +1,1 @@
-![Good Luck(artist.jpeg)]
+![Good Luck](artist.jpeg)

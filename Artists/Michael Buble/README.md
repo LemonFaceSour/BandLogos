@@ -1,1 +1,1 @@
-![Michael Buble(artist.jpeg)]
+![Michael Buble](artist.jpeg)

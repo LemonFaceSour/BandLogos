@@ -1,1 +1,1 @@
-![MDFMK(artist.jpeg)]
+![MDFMK](artist.jpeg)

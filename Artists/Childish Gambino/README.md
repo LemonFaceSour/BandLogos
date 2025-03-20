@@ -1,1 +1,1 @@
-![Childish Gambino(artist.jpeg)]
+![Childish Gambino](artist.jpeg)

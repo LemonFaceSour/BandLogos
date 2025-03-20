@@ -1,1 +1,1 @@
-![Fake Names(artist.jpeg)]
+![Fake Names](artist.jpeg)

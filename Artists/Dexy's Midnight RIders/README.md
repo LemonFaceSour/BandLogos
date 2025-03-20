@@ -1,1 +1,1 @@
-![Dexy's Midnight RIders(artist.jpeg)]
+![Dexy's Midnight RIders](artist.jpeg)

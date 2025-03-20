@@ -1,1 +1,1 @@
-![The Smashing Pumpkins(artist.jpeg)]
+![The Smashing Pumpkins](artist.jpeg)

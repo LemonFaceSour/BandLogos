@@ -1,1 +1,1 @@
-![The Nitty Gritty Dirt Band(artist.jpeg)]
+![The Nitty Gritty Dirt Band](artist.jpeg)

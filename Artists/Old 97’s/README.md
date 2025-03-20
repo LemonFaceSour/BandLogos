@@ -1,1 +1,1 @@
-![Old 97’s(artist.jpeg)]
+![Old 97’s](artist.jpeg)

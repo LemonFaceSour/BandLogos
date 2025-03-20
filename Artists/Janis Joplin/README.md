@@ -1,1 +1,1 @@
-![Janis Joplin(artist.jpeg)]
+![Janis Joplin](artist.jpeg)

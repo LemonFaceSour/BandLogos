@@ -1,1 +1,1 @@
-![Trivium(artist.jpeg)]
+![Trivium](artist.jpeg)

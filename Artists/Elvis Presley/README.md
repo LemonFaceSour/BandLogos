@@ -1,1 +1,1 @@
-![Elvis Presley(artist.jpeg)]
+![Elvis Presley](artist.jpeg)

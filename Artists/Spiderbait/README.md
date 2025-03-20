@@ -1,1 +1,1 @@
-![Spiderbait(artist.jpeg)]
+![Spiderbait](artist.jpeg)

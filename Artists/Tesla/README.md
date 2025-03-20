@@ -1,1 +1,1 @@
-![Tesla(artist.jpeg)]
+![Tesla](artist.jpeg)

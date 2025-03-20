@@ -1,1 +1,1 @@
-![Rev Theory(artist.jpeg)]
+![Rev Theory](artist.jpeg)

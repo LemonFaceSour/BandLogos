@@ -1,1 +1,1 @@
-![Five Finger Death Punch(artist.jpeg)]
+![Five Finger Death Punch](artist.jpeg)

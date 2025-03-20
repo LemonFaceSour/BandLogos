@@ -1,1 +1,1 @@
-![Orgy(artist.jpeg)]
+![Orgy](artist.jpeg)

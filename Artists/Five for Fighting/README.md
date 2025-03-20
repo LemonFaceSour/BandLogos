@@ -1,1 +1,1 @@
-![Five for Fighting(artist.jpeg)]
+![Five for Fighting](artist.jpeg)

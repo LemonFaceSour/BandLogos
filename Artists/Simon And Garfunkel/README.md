@@ -1,1 +1,1 @@
-![Simon And Garfunkel(artist.jpeg)]
+![Simon And Garfunkel](artist.jpeg)

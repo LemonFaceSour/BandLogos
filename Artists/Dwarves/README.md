@@ -1,1 +1,1 @@
-![Dwarves(artist.jpeg)]
+![Dwarves](artist.jpeg)

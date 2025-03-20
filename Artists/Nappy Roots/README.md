@@ -1,1 +1,1 @@
-![Nappy Roots(artist.jpeg)]
+![Nappy Roots](artist.jpeg)

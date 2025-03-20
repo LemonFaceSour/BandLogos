@@ -1,1 +1,1 @@
-![Simple Plan(artist.jpeg)]
+![Simple Plan](artist.jpeg)

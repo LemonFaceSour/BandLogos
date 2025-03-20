@@ -1,1 +1,1 @@
-![Live(artist.jpeg)]
+![Live](artist.jpeg)

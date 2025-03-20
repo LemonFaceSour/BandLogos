@@ -1,1 +1,1 @@
-![Def Lepard(artist.jpeg)]
+![Def Lepard](artist.jpeg)

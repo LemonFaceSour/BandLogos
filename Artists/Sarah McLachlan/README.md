@@ -1,1 +1,1 @@
-![Sarah McLachlan(artist.jpeg)]
+![Sarah McLachlan](artist.jpeg)

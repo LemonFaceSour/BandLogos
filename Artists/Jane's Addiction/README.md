@@ -1,1 +1,1 @@
-![Jane's Addiction(artist.jpeg)]
+![Jane's Addiction](artist.jpeg)

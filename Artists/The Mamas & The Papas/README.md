@@ -1,1 +1,1 @@
-![The Mamas & The Papas(artist.jpeg)]
+![The Mamas & The Papas](artist.jpeg)

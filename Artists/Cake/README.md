@@ -1,1 +1,1 @@
-![Cake(artist.jpeg)]
+![Cake](artist.jpeg)

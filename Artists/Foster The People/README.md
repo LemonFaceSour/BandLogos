@@ -1,1 +1,1 @@
-![Foster The People(artist.jpeg)]
+![Foster The People](artist.jpeg)

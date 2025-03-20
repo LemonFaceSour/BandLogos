@@ -1,1 +1,1 @@
-![The Greyboy Allstars(artist.jpeg)]
+![The Greyboy Allstars](artist.jpeg)

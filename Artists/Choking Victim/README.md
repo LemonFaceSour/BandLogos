@@ -1,1 +1,1 @@
-![Choking Victim(artist.jpeg)]
+![Choking Victim](artist.jpeg)

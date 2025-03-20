@@ -1,1 +1,1 @@
-![Nelly Furtado(artist.jpeg)]
+![Nelly Furtado](artist.jpeg)

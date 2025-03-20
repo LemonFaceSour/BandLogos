@@ -1,1 +1,1 @@
-![Me First And The Gimme Gimmes(artist.jpeg)]
+![Me First And The Gimme Gimmes](artist.jpeg)

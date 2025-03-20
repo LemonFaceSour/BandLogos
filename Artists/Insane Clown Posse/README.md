@@ -1,1 +1,1 @@
-![Insane Clown Posse(artist.jpeg)]
+![Insane Clown Posse](artist.jpeg)

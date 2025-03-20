@@ -1,1 +1,1 @@
-![Nothingface(artist.jpeg)]
+![Nothingface](artist.jpeg)

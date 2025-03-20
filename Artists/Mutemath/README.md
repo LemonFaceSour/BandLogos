@@ -1,1 +1,1 @@
-![Mutemath(artist.jpeg)]
+![Mutemath](artist.jpeg)

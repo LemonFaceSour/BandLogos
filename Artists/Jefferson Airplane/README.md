@@ -1,1 +1,1 @@
-![Jefferson Airplane(artist.jpeg)]
+![Jefferson Airplane](artist.jpeg)

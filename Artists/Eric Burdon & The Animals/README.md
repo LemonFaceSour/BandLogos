@@ -1,1 +1,1 @@
-![Eric Burdon & The Animals(artist.jpeg)]
+![Eric Burdon & The Animals](artist.jpeg)

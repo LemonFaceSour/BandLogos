@@ -1,1 +1,1 @@
-![Motion City Soundtrack(artist.jpeg)]
+![Motion City Soundtrack](artist.jpeg)

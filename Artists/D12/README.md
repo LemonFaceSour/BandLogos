@@ -1,1 +1,1 @@
-![D12(artist.jpeg)]
+![D12](artist.jpeg)

@@ -1,1 +1,1 @@
-![Franz Ferdinand(artist.jpeg)]
+![Franz Ferdinand](artist.jpeg)

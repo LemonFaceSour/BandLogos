@@ -1,1 +1,1 @@
-![Lou Bega(artist.jpeg)]
+![Lou Bega](artist.jpeg)

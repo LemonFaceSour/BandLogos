@@ -1,1 +1,1 @@
-![Shinedown(artist.jpeg)]
+![Shinedown](artist.jpeg)

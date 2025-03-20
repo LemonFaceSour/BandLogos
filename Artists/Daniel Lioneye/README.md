@@ -1,1 +1,1 @@
-![Daniel Lioneye(artist.jpeg)]
+![Daniel Lioneye](artist.jpeg)

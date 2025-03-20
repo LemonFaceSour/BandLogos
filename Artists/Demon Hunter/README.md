@@ -1,1 +1,1 @@
-![Demon Hunter(artist.jpeg)]
+![Demon Hunter](artist.jpeg)

@@ -1,1 +1,1 @@
-![The Wallflowers(artist.jpeg)]
+![The Wallflowers](artist.jpeg)

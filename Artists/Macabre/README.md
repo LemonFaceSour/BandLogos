@@ -1,1 +1,1 @@
-![Macabre(artist.jpeg)]
+![Macabre](artist.jpeg)

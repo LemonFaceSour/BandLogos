@@ -1,1 +1,1 @@
-![Rufio(artist.jpeg)]
+![Rufio](artist.jpeg)

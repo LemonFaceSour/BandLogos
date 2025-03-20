@@ -1,1 +1,1 @@
-![Earshot(artist.jpeg)]
+![Earshot](artist.jpeg)

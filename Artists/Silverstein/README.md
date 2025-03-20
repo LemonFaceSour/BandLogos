@@ -1,1 +1,1 @@
-![Silverstein(artist.jpeg)]
+![Silverstein](artist.jpeg)

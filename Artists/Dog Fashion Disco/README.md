@@ -1,1 +1,1 @@
-![Dog Fashion Disco(artist.jpeg)]
+![Dog Fashion Disco](artist.jpeg)

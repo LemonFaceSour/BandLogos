@@ -1,1 +1,1 @@
-![Train(artist.jpeg)]
+![Train](artist.jpeg)

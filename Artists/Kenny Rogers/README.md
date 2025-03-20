@@ -1,1 +1,1 @@
-![Kenny Rogers(artist.jpeg)]
+![Kenny Rogers](artist.jpeg)

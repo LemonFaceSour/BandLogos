@@ -1,1 +1,1 @@
-![4 Non Blondes(artist.jpeg)]
+![4 Non Blondes](artist.jpeg)

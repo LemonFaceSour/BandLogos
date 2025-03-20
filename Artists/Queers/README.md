@@ -1,1 +1,1 @@
-![Queers(artist.jpeg)]
+![Queers](artist.jpeg)

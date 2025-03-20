@@ -1,1 +1,1 @@
-![Skrillex(artist.jpeg)]
+![Skrillex](artist.jpeg)

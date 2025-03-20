@@ -1,1 +1,1 @@
-![Cypress Hill(artist.jpeg)]
+![Cypress Hill](artist.jpeg)

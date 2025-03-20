@@ -1,1 +1,1 @@
-![Rod Stewart(artist.jpeg)]
+![Rod Stewart](artist.jpeg)

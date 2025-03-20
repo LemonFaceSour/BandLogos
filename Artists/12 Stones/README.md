@@ -1,1 +1,1 @@
-![12 Stones(artist.jpeg)]
+![12 Stones](artist.jpeg)

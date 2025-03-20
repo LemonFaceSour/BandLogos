@@ -1,1 +1,1 @@
-![No Doubt(artist.jpeg)]
+![No Doubt](artist.jpeg)

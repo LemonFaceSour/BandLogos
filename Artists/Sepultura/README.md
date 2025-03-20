@@ -1,1 +1,1 @@
-![Sepultura(artist.jpeg)]
+![Sepultura](artist.jpeg)

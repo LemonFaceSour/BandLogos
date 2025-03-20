@@ -1,1 +1,1 @@
-![Dr. Hook(artist.jpeg)]
+![Dr. Hook](artist.jpeg)

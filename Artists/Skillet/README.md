@@ -1,1 +1,1 @@
-![Skillet(artist.jpeg)]
+![Skillet](artist.jpeg)

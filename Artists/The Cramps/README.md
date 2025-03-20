@@ -1,1 +1,1 @@
-![The Cramps(artist.jpeg)]
+![The Cramps](artist.jpeg)
