@@ -1,1 +1,1 @@
-<img src="artist.jpeg" width="450" height="450">
+<h3>The Devil Wears Prada</h3><br><img src="artist.jpeg" width="450" height="450">

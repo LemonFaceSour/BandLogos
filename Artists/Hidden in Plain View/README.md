@@ -1,1 +1,1 @@
-<img src="artist.jpeg" width="450" height="450">
+<h3>Hidden in Plain View</h3><br><img src="artist.jpeg" width="450" height="450">

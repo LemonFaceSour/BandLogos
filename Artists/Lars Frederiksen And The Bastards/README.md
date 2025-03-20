@@ -1,1 +1,1 @@
-<img src="artist.jpeg" width="450" height="450">
+<h3>Lars Frederiksen And The Bastards</h3><br><img src="artist.jpeg" width="450" height="450">

@@ -1,1 +1,1 @@
-<img src="artist.jpeg" width="450" height="450">
+<h3>Alabama</h3><br><img src="artist.jpeg" width="450" height="450">

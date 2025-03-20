@@ -1,1 +1,1 @@
-<img src="artist.jpeg" width="450" height="450">
+<h3>Five Finger Death Punch</h3><br><img src="artist.jpeg" width="450" height="450">

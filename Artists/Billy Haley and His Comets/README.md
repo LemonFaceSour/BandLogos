@@ -1,1 +1,1 @@
-<img src="artist.jpeg" width="450" height="450">
+<h3>Billy Haley and His Comets</h3><br><img src="artist.jpeg" width="450" height="450">

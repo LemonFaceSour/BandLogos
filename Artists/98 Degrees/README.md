@@ -1,1 +1,1 @@
-<img src="artist.jpeg" width="450" height="450">
+<h3>98 Degrees</h3><br><img src="artist.jpeg" width="450" height="450">

@@ -1,1 +1,1 @@
-<img src="artist.jpeg" width="450" height="450">
+<h3>Me First And The Gimme Gimmes</h3><br><img src="artist.jpeg" width="450" height="450">

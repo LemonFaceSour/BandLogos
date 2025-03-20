@@ -1,1 +1,1 @@
-<img src="artist.jpeg" width="450" height="450">
+<h3>Alice in Chains</h3><br><img src="artist.jpeg" width="450" height="450">
