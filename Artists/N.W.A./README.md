@@ -1,1 +1,1 @@
-![N.W.A.](artist.jpeg)
+<img src="artist.jpeg" width="800" height="800">

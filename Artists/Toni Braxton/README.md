@@ -1,1 +1,1 @@
-![Toni Braxton](artist.jpeg)
+<img src="artist.jpeg" width="800" height="800">

@@ -1,1 +1,1 @@
-![Me First And The Gimme Gimmes](artist.jpeg)
+<img src="artist.jpeg" width="800" height="800">

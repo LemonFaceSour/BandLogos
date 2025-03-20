@@ -1,1 +1,1 @@
-![30 Seconds to Mars](artist.jpeg)
+<img src="artist.jpeg" width="800" height="800">

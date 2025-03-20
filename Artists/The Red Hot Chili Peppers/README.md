@@ -1,1 +1,1 @@
-![The Red Hot Chili Peppers](artist.jpeg)
+<img src="artist.jpeg" width="800" height="800">

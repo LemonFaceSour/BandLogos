@@ -1,1 +1,1 @@
-![Box Car Racers](artist.jpeg)
+<img src="artist.jpeg" width="800" height="800">

@@ -1,1 +1,1 @@
-![The Presidents of the United States of America](artist.jpeg)
+<img src="artist.jpeg" width="800" height="800">

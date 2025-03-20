@@ -1,1 +1,1 @@
-![The Mamas & The Papas](artist.jpeg)
+<img src="artist.jpeg" width="800" height="800">

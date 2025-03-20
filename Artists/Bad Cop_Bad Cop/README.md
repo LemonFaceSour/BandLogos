@@ -1,1 +1,1 @@
-![Bad Cop_Bad Cop](artist.jpeg)
+<img src="artist.jpeg" width="800" height="800">

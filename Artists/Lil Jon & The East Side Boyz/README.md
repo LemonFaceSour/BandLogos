@@ -1,1 +1,1 @@
-![Lil Jon & The East Side Boyz](artist.jpeg)
+<img src="artist.jpeg" width="800" height="800">

@@ -1,1 +1,1 @@
-![The White Stripes](artist.jpeg)
+<img src="artist.jpeg" width="800" height="800">

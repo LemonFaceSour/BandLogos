@@ -1,1 +1,1 @@
-![88 finger Louie](artist.jpeg)
+<img src="artist.jpeg" width="800" height="800">

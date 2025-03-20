@@ -1,1 +1,1 @@
-![The Get Up Kids](artist.jpeg)
+<img src="artist.jpeg" width="800" height="800">

@@ -1,1 +1,1 @@
-![Reel 2 Real](artist.jpeg)
+<img src="artist.jpeg" width="800" height="800">

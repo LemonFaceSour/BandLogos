@@ -1,1 +1,1 @@
-![Story Of The Year](artist.jpeg)
+<img src="artist.jpeg" width="800" height="800">
