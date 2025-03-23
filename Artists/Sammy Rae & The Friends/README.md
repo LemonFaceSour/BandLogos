@@ -1,0 +1,1 @@
+<h3>Sammy Rae & The Friends</h3><br><img src="artist.jpeg" width="450" height="450">
