@@ -1,0 +1,1 @@
+<h3>Ducky Boys, The/Shods, The</h3><br><img src="artist.jpeg" width="450" height="450">

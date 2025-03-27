@@ -1,1 +1,0 @@
-<h3>Cheech And Chong</h3><br><img src="artist.jpeg" width="450" height="450">

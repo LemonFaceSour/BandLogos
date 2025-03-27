@@ -1,0 +1,1 @@
+<h3>L7</h3><br><img src="artist.jpeg" width="450" height="450">
