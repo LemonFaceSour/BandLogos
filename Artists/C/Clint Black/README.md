@@ -1,0 +1,1 @@
+<h3>Clint Black</h3><br><img src="artist.jpeg" width="450" height="450">
