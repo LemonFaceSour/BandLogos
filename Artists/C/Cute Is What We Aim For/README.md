@@ -1,0 +1,1 @@
+<h3>Cute Is What We Aim For</h3><br><img src="artist.jpeg" width="450" height="450">

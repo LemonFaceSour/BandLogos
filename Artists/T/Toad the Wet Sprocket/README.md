@@ -1,0 +1,1 @@
+<h3>Toad the Wet Sprocket</h3><br><img src="artist.jpeg" width="450" height="450">
