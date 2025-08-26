@@ -1,0 +1,1 @@
+<h3>The Story So Far</h3><br><img src="artist.jpeg" width="450" height="450">

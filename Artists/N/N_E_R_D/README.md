@@ -1,0 +1,1 @@
+<h3>N*E*R*D</h3><br><img src="artist.jpeg" width="450" height="450">

@@ -1,0 +1,1 @@
+<h3>Story of the Year</h3><br><img src="artist.jpeg" width="450" height="450">
